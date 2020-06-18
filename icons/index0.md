@@ -505,16 +505,16 @@ all interview faqs here
 all interview faqs here
 
 ----------------------------
+
 **Disclaimer**:
 Contents in this page are genuine and accurate to the best of my knowledge. And intended only for recruitment purposes. Please do not discolse or share any personal informations without my consent.
 
 <br>Written by: Elankovan M. G.(candidate)
 <br>Last Updated: 19-June-20
 
-<br><img src="icons/gmail.png" width="20"> **elankovanmg@gmail.com**
-<br><img src="icons/whatsapp.png" width="20"> +91 99402 75\*\*\*
-<br><img src="icons/twitter.png" width="20">[#elangovan_ilai](https://twitter.com/elangovan_ilai)
-<br><img src="icons/linkedin.png" width="20">[linkedin.com/in/elankovanmg](https://www.linkedin.com/in/elankovanmg/)
+<br>Email: **elankovanmg@gmail.com**
+<br>Whatsapp: +91 99402 75\*\*\*
+<br>Twitter: [#elangovan_ilai](https://twitter.com/elangovan_ilai)
 
 
   Page Views: <img src="https://hitwebcounter.com/counter/counter.php?page=7441543&style=0007&nbdigits=4&type=page&initCount=0" height="15"/>
