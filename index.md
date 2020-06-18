@@ -6,19 +6,18 @@
 
 
 
-**This Page is incomplete: Deadline is 23-June-20**
+**This Page is incomplete: Deadline is 25-June-2020**
 <!-- Contents of this page was developed by the candidate in [markdown](link 'click to view the source file'). -->
 
 <!-- link to github page. -->
 
 <!-- Download this document page again ( [html](markdown.html), [pdf](markdown.pdf) ), incase of inaccessability.   -->
 
-*<u>NOTE:</u> Click on the icons and `Home` button to navigate*
-<a name=aboutme></a>
+<a name=myselfeee></a>
 ## ABOUT ME
 
 Here is something about me
-<!--
+
 I still remember the days I played with LEDs diodes DC motors and dismantling the toys bursting out of curiousity, electronics was my favourite hobby I prefer it than playing with my friends outdoors.
 Those were the most beautiful days of my childhood.
 One fine day during my middle school I went in argument with my Chemistry teacher saying 'Mam your theory isn't working' after giving a try to electroplate one rupee coin with copper.
@@ -40,14 +39,14 @@ I hate when my parents say 'learn from her, the way she is'.Now she's a mother t
 My dad is self employed and own's a small bussiness my family lives here for more than three decades.
 I am the youngest of two childrens and My sister works for TCS she's married and has small kid.
 Despite my home beeing just 22 kms from IITM campus I choose to stay in hostel.
-My mom is a Tailor and homemaker so loving and caring. -->
+My mom is a Tailor and homemaker so loving and caring.
 
 <!-- {
 I know this decision would change my life but had no idea upto what extend will it.
 It is here I started learning music, two foriegn languages and started discovering myself. I'm excited about the opporunites that I may get tommorw so preparing hard and learning hard to live.
 } -->
 
-<a name=iitmlife></a>
+<a name=myself></a>
 ## LIFE AT IITM
 
 <!-- > It's possible to be busy without being effective. -->
