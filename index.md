@@ -4,17 +4,7 @@
 
 <img src="icons/comp.png" width="50"/>[7. Computer Proficiency](#training) | <img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites](#training) | <img src="icons/jobexp.png" width="50"/>  [9. Interview FAQs](#training)
 
-<<<<<<< HEAD
-**This Page is incomplete: Deadline is 26-June-2020**
-=======
 
-
-<<<<<<< HEAD
-**This Page is incomplete: Deadline is 25-June-2020**
-=======
-**This Page is incomplete: Deadline is 24-June-20**
->>>>>>> 021ad89dd61eac8e74b83d428c805659c4d3f8d5
->>>>>>> 4a077e1df16ce12f96873d82c55ca64e42a3aa2e
 <!-- Contents of this page was developed by the candidate in [markdown](link 'click to view the source file'). -->
 
 <!-- link to github page. -->
