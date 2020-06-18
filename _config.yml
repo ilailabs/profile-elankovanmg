@@ -17,6 +17,12 @@ twitter_username: jekyllrb
 github_username:  ilailabs
 #gitlab_username:  pages
 
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+
 # Build settings
 theme: cayman
 plugins:
