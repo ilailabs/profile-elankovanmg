@@ -6,7 +6,7 @@
 
 Please remember to use `HOME` button and `Ctrl+F` to navigate and search within this page.
 
-\***Please enter last 3 digits of my academic roll number ME17Sxxx to access few important PDF documents**
+\***Please enter last 3 digits of my academic roll number ME17Sxxx to access few important PDF documents in this page**
 
 <!-- Contents of this page was developed by the candidate in [markdown](link 'click to view the source file'). -->
 
@@ -16,8 +16,6 @@ Please remember to use `HOME` button and `Ctrl+F` to navigate and search within 
 
 <a name="myself"></a>
 ## 1. About Me
-
-(#myself)
 
 Here is something about me Here is something about me
 Here is something about me
