@@ -25,9 +25,7 @@
 
 <!-- [<img src="icons/aboutme.png">link](link) -->
 
-[![text](icons/aboutme.png 'About me' =50x50)About Me](#aboutme)
-
-![](icons/aboutme.png)
+![text](icons/aboutme.png 'About me' =50x50)About Me
 
 [![text](icons/univ.png 'Research at IITM' =50x50)Education](#iitmlife)
 [![text](icons/res.png 'Education' =50x50)Research ](#research)
