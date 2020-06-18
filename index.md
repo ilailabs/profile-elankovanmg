@@ -14,7 +14,7 @@ Please remember to use `HOME` button and `Ctrl+F` to navigate and search within 
 
 <!-- Download this document page again ( [html](markdown.html), [pdf](markdown.pdf) ), incase of inaccessability.   -->
 
-[comment]:(#myself)
+<a name="myself"></a>
 ## 1. About Me
 
 (#myself)
@@ -101,7 +101,6 @@ Here is something about me
 Here is something about me
 Here is something about me
 
-[comment]:(#research)
 <a name="research"></a>
 ## 2. Research at IITM
 
@@ -152,10 +151,8 @@ about my research work here
 about my research work here
 about my research work here
 
-[comment]:(#work)
+<a name="work"></a>
 ## 3. Project and Work Experiances
-
-(#work)
 
 My work experiances My work experiances
 My work experiances
@@ -216,7 +213,7 @@ My work experiances
 
 To know more about my research work: [*ilailabs.github.io/research-elankovanmg*](https://ilailabs.github.io/research-elankovanmg/)
 
-[comment]:(#acad)
+<a name="acad"></a>
 ## 4. Academic Accomplishments
 
 (#acad)
@@ -263,10 +260,8 @@ more on academic acomplishmensts ehere
 more on academic acomplishmensts ehere
 more on academic acomplishmensts ehere
 
-[comments]:(#moocs)
+<a name="moocs"></a>
 ## 5. Online Courses
-
-(#moocs)
 
 List of all online courses here
 List of all online courses here
@@ -312,9 +307,8 @@ List of all online courses here
 List of all online courses here
 
 [comments]:(#training)
+<a name="training"></a>
 ## 6. Training & Certification
-
-(#training)
 
 list of all training here list of all training here
 list of all training here
@@ -383,11 +377,9 @@ list of all training here
 list of all training here
 list of all training here
 
-[comments]:(#computer)
+<a name="computer"></a>
 ## 7. Computer Proficiency and Skills
 
-(#computer)
-
 here goes list of all my computer skills and works
 here goes list of all my computer skills and works
 here goes list of all my computer skills and works
@@ -436,11 +428,9 @@ here goes list of all my computer skills and works
 here goes list of all my computer skills and works
 here goes list of all my computer skills and works
 
-[comment]:(#hobbies)
+<a name="hobbies"></a>
 ## 8. Lesiure Activites and Hobbies
 
-(#hobbies)
-
 here is the list of all my hobbies
 here is the list of all my hobbies
 here is the list of all my hobbies
@@ -472,10 +462,8 @@ here is the list of all my hobbies
 here is the list of all my hobbies
 here is the list of all my hobbies
 
-[comment]:(#faqs)
+<a name="faqs"></a>
 ## 9. Interview FAQs and Job Expectactions
-
-(#faqs)
 
 all interview faqs here all interview faqs here
 all interview faqs here
