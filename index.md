@@ -8,96 +8,26 @@ Please remember to use `HOME` button and `Ctrl+F` to navigate and search within 
 
 \***Please enter last 3 digits of my academic roll number ME17Sxxx to access few important PDF documents in this page**
 
-<!-- Contents of this page was developed by the candidate in [markdown](link 'click to view the source file'). -->
-
-<!-- link to github page. -->
-
-<!-- Download this document page again ( [html](markdown.html), [pdf](markdown.pdf) ), incase of inaccessability.   -->
+[Resume-Data Sciences and Machine Learning Profile](docs/resume1.pdf)
+[Resume-Research Engineer Profile](docs/resume2.pdf)
+[Resume-Data Analytics Profile](docs/resume3.pdf)
 
 <a name="myself"></a>
 ## 1. About Me
 
-Here is something about me Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
-Here is something about me
+I joined Computational Materials Modelling(CMM) Group in 2017 lead by [*Prof. Narasimhan Swaminathan*](https://home.iitm.ac.in/n.swaminathan/) as an [<u>Interdisciplinary</u>](https://drive.google.com/file/d/1lel8A2oP7el56gdNdnFva8FgbY1ygW0s/view?usp=sharing) research scholar in the Department of Mechanical Engineering(Design) and in the Department of Physics under the research supervision of [Prof. C. V. Krishnamurthy.](http://iitm.irins.org/profile/61936)
+Inclination towards Science and Mathematics and the love that I had for my family has motivated me to join IITM to pursue research education.
+My first emotional touch and 'aah haa! moment' with science was during my middle school days when I turned a stainless steel coin into a copper coated one (stole some copper sulphate salt from my chemistry lab, I was naughty and mischievous boy those days)
+I also didn’t believe in a few of the things that my physics teacher taught me, so I had to do some stone throwing experiments from my terrace.
+I had a little curious scientist in me so badly wanting to experiment things.
+Those days were one among the happiest phases of my life and I had aspirations of becoming an Engineer someday since then.
+I have always admired technology and the way they empower  humankind.
+Internet and Flying machines were my favourite among them.
+
+Philosophy and Psychology is something that I appreciate and understand apart from my discipline.
+I was most influenced by the teachings of Dr. Jordan Petersons and his views on life and also inspired by the writings of American Philosopher Dr. Wyane Dyer.
+I recently developed some interest in Entrepreneurship and Behavioural science, influenced by the talks of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) & some of the professors I met, [Prof LSG](https://doms.iitm.ac.in/index.php/ganesh-l-s) (DoMs-IITM) and [Prof Murali](https://www.ubc.ca/about/one-on-one/leadership/murali-chandrashekaran.html) from UBC who mentored me for a social project.
+<!-- Vist my personal home page to know my other interests and my opinion about life. -->
 
 <a name="research"></a>
 ## 2. Research at IITM

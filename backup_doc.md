@@ -97,6 +97,10 @@ Here is something about me
 Here is something about me
 Here is something about me
 
+There is also a couple of reasons
+I was just performing average in all other subjects except physical and maths.
+There is two main reasons for that, my one of cousine was a physics major and she use to bring some electronic kits some weekends where we have fun with DC motors and LEDs.
+Unlike any other subjects I top the class in math, I enjoyed it and it so easy to score.
 
 I still remember the days I played with LEDs diodes DC motors and dismantling the toys bursting out of curiousity, electronics was my favourite hobby I prefer it than playing with my friends outdoors.
 Those were the most beautiful days of my childhood.
