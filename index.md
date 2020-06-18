@@ -1,5 +1,5 @@
-<img src="icons/aboutme.png" width="50"/> ["1. About My                "](#myself)
-<img src="icons/res.png" width="50"/>     ["2. Research                "](#research)
+<img src="icons/aboutme.png" width="50"/> [1. About My                ](#myself)
+<img src="icons/res.png" width="50"/>     [2. Research                ](#research)
 <img src="icons/work.png" width="50"/>    [3. Work Experiance         ](#work)
 <br><img src="icons/acad.png" width="50"/>[4. Academics               ](#acad)
 <img src="icons/moocs.png" width="50"/>   [5. Online Courses          ](#moocs)
@@ -8,6 +8,10 @@
 <img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites       ](#training)
 <img src="icons/jobexp.png" width="50"/>  [9. Interview FAQs          ](#training)
 
+
+|.|.|.|
+|:--|:--|:--|
+|<img src="icons/aboutme.png" width="50"/> [1. About My](#myself)|<img src="icons/res.png" width="50"/>[2. Research                ](#research)|<img src="icons/work.png" width="50"/>[3. Work Experiance         ](#work)|
 
 4. ACADEMICS
     * masters
