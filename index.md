@@ -1,4 +1,4 @@
-1. ABOUT ME
+1. ABOUT ME ![](icons/aboutme.png)
 2. LIFE AT IITM
 3. RESEARCH
 4. ACADEMICS
