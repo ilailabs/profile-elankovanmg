@@ -1,10 +1,12 @@
-<img src="icons/aboutme.png" width="50"/> [1. About Me](#myself) | <img src="icons/res.png" width="50"/>[2. Research](#research) | <img src="icons/work.png" width="50"/> [3. Work Experiance         ](#work)
+ ![](icons/aboutme.png =50x)[1. About Me](#myself) | <img src="icons/res.png" width="50"/>[2. Research](#research) | <img src="icons/work.png" width="50"/> [3. Work Experiance         ](#work)
 
 <img src="icons/acad.png" width="50"/>[4. Academics](#acad)| <img src="icons/moocs.png" width="50"/>   [5. Online Courses](#moocs) | <img src="icons/cert1.png" width="50"/>   [6. Training & Certification](#training)
 
 <img src="icons/comp.png" width="50"/>[7. Computer Proficiency](#training) | <img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites](#training) | <img src="icons/jobexp.png" width="50"/>  [9. Interview FAQs](#training)
 
-**This Page is incomplete: Deadline is 20-June-2020**
+**This Page is being written, please vist aftersometime**
+
+<img src="icons/aboutme.png" width="50"/>
 
 <!-- Contents of this page was developed by the candidate in [markdown](link 'click to view the source file'). -->
 
@@ -12,7 +14,7 @@
 
 <!-- Download this document page again ( [html](markdown.html), [pdf](markdown.pdf) ), incase of inaccessability.   -->
 
-(#myself)
+[comment]:(#myself)
 ## ABOUT ME
 
 Here is something about me
@@ -45,7 +47,7 @@ I know this decision would change my life but had no idea upto what extend will 
 It is here I started learning music, two foriegn languages and started discovering myself. I'm excited about the opporunites that I may get tommorw so preparing hard and learning hard to live.
 } -->
 
-(#research)
+[comment]:(#research)
 ## Research
 
 <!-- > It's possible to be busy without being effective. -->
