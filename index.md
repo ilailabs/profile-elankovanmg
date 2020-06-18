@@ -17,6 +17,8 @@ Please remember to use `HOME` button and `Ctrl+F` to navigate and search within 
 [comment]:(#myself)
 ## 1. About Me
 
+(#myself)
+
 Here is something about me Here is something about me
 Here is something about me
 Here is something about me
@@ -102,6 +104,8 @@ Here is something about me
 [comment]:(#research)
 ## 2. Research at IITM
 
+(#research)
+
 about my research work here about my research work here
 about my research work here
 about my research work here
@@ -149,6 +153,8 @@ about my research work here
 
 [comment]:(#work)
 ## 3. Project and Work Experiances
+
+(#work)
 
 My work experiances My work experiances
 My work experiances
@@ -212,6 +218,8 @@ To know more about my research work: [*ilailabs.github.io/research-elankovanmg*]
 [comment]:(#acad)
 ## 4. Academic Accomplishments
 
+(#acad)
+
 more on academic acomplishmensts ehere
 more on academic acomplishmensts ehere
 more on academic acomplishmensts ehere
@@ -256,6 +264,8 @@ more on academic acomplishmensts ehere
 
 [comments]:(#moocs)
 ## 5. Online Courses
+
+(#moocs)
 
 List of all online courses here
 List of all online courses here
@@ -302,6 +312,8 @@ List of all online courses here
 
 [comments]:(#training)
 ## 6. Training & Certification
+
+(#training)
 
 list of all training here list of all training here
 list of all training here
@@ -373,6 +385,8 @@ list of all training here
 [comments]:(#computer)
 ## 7. Computer Proficiency and Skills
 
+(#computer)
+
 here goes list of all my computer skills and works
 here goes list of all my computer skills and works
 here goes list of all my computer skills and works
@@ -424,6 +438,8 @@ here goes list of all my computer skills and works
 [comment]:(#hobbies)
 ## 8. Lesiure Activites and Hobbies
 
+(#hobbies)
+
 here is the list of all my hobbies
 here is the list of all my hobbies
 here is the list of all my hobbies
@@ -457,6 +473,8 @@ here is the list of all my hobbies
 
 [comment]:(#faqs)
 ## 9. Interview FAQs and Job Expectactions
+
+(#faqs)
 
 all interview faqs here all interview faqs here
 all interview faqs here
