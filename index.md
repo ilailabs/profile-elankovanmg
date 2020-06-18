@@ -1,5 +1,7 @@
-1. About Me <img src="icons/aboutme.png" width="50"/>
-2. Research <img src="icons/res.png" width="50"/>
+<img src="icons/aboutme.png" width="50"/> [1. About My](#myself)
+<img src="icons/res.png" width="50"/> [2. Research](#research)
+<img src="icons/acad.png" width="50"/> [3. Academics](#acad)
+
 4. ACADEMICS
     * masters
     * undergrad
