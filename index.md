@@ -17,7 +17,7 @@
 12. Lesuire time activites-
 13. BOOKS -->
 
-![some text](icons/aboutme.png 'About me' =30x25)About Me
+![some text](icons/aboutme.png 'About me' =30x25) About Me
 
 [![text](icons/univ.png 'Research at IITM' =50x50)Education](#iitmlife)
 [![text](icons/res.png 'Education' =50x50)Research ](#research)
