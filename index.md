@@ -4,6 +4,7 @@
 
 <img src="icons/comp.png" width="50"/>[7. Computer Proficiency](#training) | <img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites](#training) | <img src="icons/jobexp.png" width="50"/>  [9. Interview FAQs](#training)
 
+**This Page is incomplete: Deadline is 26-June-2020**
 
 <!-- Contents of this page was developed by the candidate in [markdown](link 'click to view the source file'). -->
 
@@ -14,7 +15,7 @@
 <a name=myselfeee></a>
 ## ABOUT ME
 
-Here is something about me
+<!-- Here is something about me
 
 I still remember the days I played with LEDs diodes DC motors and dismantling the toys bursting out of curiousity, electronics was my favourite hobby I prefer it than playing with my friends outdoors.
 Those were the most beautiful days of my childhood.
@@ -28,7 +29,7 @@ Why do you expect a child to be good at everything? I didn't feel like impressin
 It's an attitude that I carried from my young age, latter when I grewup I become an introverted person.
 But at times I wanted my parents to appreciate me when I score good and scolde me when I underperform.
 My dad is self-employed owns a small business and very thoughtfull, I just remember the two pieces of advice that he gave me *'have big desires,  only then you'll find a way'*, *'wake before the sun, success is assured'*. My mother is a homemaker and she is intrested much in tailoring and embrodiary works. My elder sister is discipled hardworking and nerd, I am exactly opposite that of her and do all mischevious things.
-I hate when my parents say 'learn from her, the way she is'.Now she's a mother to a little kid and works for IT. Life gave me some new demonstrations when I turned 21, I was depressed to the core for some reasons, my dad is unable to recover from the financial crash that he had few years back. I belived I deserve a better life and the following year I managed to get into the nations best institues for masters degree of my choice. -->
+I hate when my parents say 'learn from her, the way she is'.Now she's a mother to a little kid and works for IT. Life gave me some new demonstrations when I turned 21, I was depressed to the core for some reasons, my dad is unable to recover from the financial crash that he had few years back. I belived I deserve a better life and the following year I managed to get into the nations best institues for masters degree of my choice. --> -->
 
 <!-- To know more about my idea of life, people whom I admire and my opinion on spirituality vist my personal page [ilailabs.github.io/personal-life-elankovanmg](link) -->
 <!-- > Learn form the best, Aim for the best. -->
