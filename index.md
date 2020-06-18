@@ -5,7 +5,7 @@
 <br><img src="icons/moocs.png" width="50"/> [5. Online Courses](#moocs)
 <img src="icons/cert1.png" width="50"/> [6. Training & Certification](#training)
 <img src="icons/comp.png" width="50"/> [7. Computer Proficiency](#training)
-<img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites](#training)
+<br><img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites](#training)
 <img src="icons/jobexp.png" width="50"/> [9. Interview FAQs](#training)
 
 
