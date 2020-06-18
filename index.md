@@ -1,4 +1,4 @@
-1. ABOUT ME ![](icons/aboutme.png=30x20)
+1. ABOUT ME <img src="icons/aboutme.png" width="200"/>
 2. LIFE AT IITM
 3. RESEARCH
 4. ACADEMICS
