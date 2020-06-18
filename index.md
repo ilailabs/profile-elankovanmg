@@ -1,6 +1,13 @@
 <img src="icons/aboutme.png" width="50"/> [1. About My](#myself)
 <img src="icons/res.png" width="50"/> [2. Research](#research)
-<img src="icons/acad.png" width="50"/> [3. Academics](#acad)
+<img src="icons/cert1.png" width="50"/> [3. Work Experiance](#work)
+<img src="icons/acad.png" width="50"/> [4. Academics](#acad)
+<img src="icons/cert1.png" width="50"/> [5. Online Courses](#moocs)
+<img src="icons/scatter.png" width="50"/> [6. Training & Certification](#training)
+<img src="icons/lang.png" width="50"/> [7. Computer Proficiency](#training)
+<img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites](#training)
+<img src="icons/jobexp.png" width="50"/> [9. Interview FAQs](#training)
+
 
 4. ACADEMICS
     * masters
