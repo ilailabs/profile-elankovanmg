@@ -1,6 +1,8 @@
 title: Elankovan Munuswamy Gopal
 description: Masters Research Scholar, Indian Institute of Technology Madras
 show_downloads: false
-google_analytics:
-theme: jekyll-theme-cayman
+# google_analytics: [Your Google Analytics tracking ID]
+# analytics_id: [Your Google Analytics tracking ID]theme: jekyll-theme-cayman
 email: elankovanmg@gmail.com
+
+markdown: kramdown
