@@ -1,7 +1,4 @@
-
-<!-- ![elangovan ilai](/../img/nice.jpg) -->
-
-<!-- 1. ABOUT ME
+1. ABOUT ME
 2. LIFE AT IITM
 3. RESEARCH
 4. ACADEMICS
@@ -10,22 +7,17 @@
     * schooling
 6. Online Courses
 7. ACADEMICS
-<!-- 8. MOOCs -->
-<!-- 9. Training and certification
+8. MOOCs
+9. Training and certification
     - co-cirricular
     * lectures
     * workshop
 10. Computer proficiency
 11. Language competancy
 12. Lesuire time activites-
-<!-- 13. BOOKS -->
-<!-- 14. DREAMS -->
-<!-- 15. JOB EXPECTATIONS
-16. IMAGE GALLERY -->
+13. BOOKS -->
 
-<!-- [<img src="icons/aboutme.png">link](link) -->
-
-![text](icons/aboutme.png 'About me' =50x50)About Me
+![](icons/aboutme.png 'About me' =30x25)About Me
 
 [![text](icons/univ.png 'Research at IITM' =50x50)Education](#iitmlife)
 [![text](icons/res.png 'Education' =50x50)Research ](#research)
