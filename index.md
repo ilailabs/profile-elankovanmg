@@ -508,8 +508,8 @@ Contents in this page are genuine and accurate to the best of my knowledge. And 
 <br>Last Updated: 19-June-20
 
 <br>Email: **elankovanmg@gmail.com**
-<br>Whatsapp: *+91 99402 75\*\*\**
-<br>Twitter: *twitter.com/elangovan_ilai*
+<br>Whatsapp: +91 99402 75\*\*\*
+<br>Twitter: [#elangovan_ilai](https://twitter.com/elangovan_ilai)
 
 
   Page Views: <img src="https://hitwebcounter.com/counter/counter.php?page=7441543&style=0007&nbdigits=4&type=page&initCount=0" height="15"/>
