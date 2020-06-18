@@ -1,6 +1,3 @@
-# ELANKOVAN MUNUSWAMY GOPAL
-
-*Masters Research Scholar, Indian Institute of Technology Madras*
 
 <!-- ![elangovan ilai](/../img/nice.jpg) -->
 
