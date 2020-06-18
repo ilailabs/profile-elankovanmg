@@ -6,7 +6,11 @@
 
 
 
+<<<<<<< HEAD
 **This Page is incomplete: Deadline is 25-June-2020**
+=======
+**This Page is incomplete: Deadline is 24-June-20**
+>>>>>>> 021ad89dd61eac8e74b83d428c805659c4d3f8d5
 <!-- Contents of this page was developed by the candidate in [markdown](link 'click to view the source file'). -->
 
 <!-- link to github page. -->
