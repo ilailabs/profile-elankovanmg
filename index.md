@@ -1,50 +1,14 @@
-<img src="icons/aboutme.png" width="50"/> [1. About My                ](#myself)
-<img src="icons/res.png" width="50"/>     [2. Research                ](#research)
-<img src="icons/work.png" width="50"/>    [3. Work Experiance         ](#work)
-<br><img src="icons/acad.png" width="50"/>[4. Academics               ](#acad)
-<img src="icons/moocs.png" width="50"/>   [5. Online Courses          ](#moocs)
-<img src="icons/cert1.png" width="50"/>   [6. Training & Certification](#training)
-<br><img src="icons/comp.png" width="50"/>[7. Computer Proficiency    ](#training)
-<img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites       ](#training)
-<img src="icons/jobexp.png" width="50"/>  [9. Interview FAQs          ](#training)
+<img src="icons/aboutme.png" width="50"/> [1. About My                |](#myself)
+<img src="icons/res.png" width="50"/>     [2. Research                |](#research)
+<img src="icons/work.png" width="50"/>    [3. Work Experiance         |](#work)
+<br><img src="icons/acad.png" width="50"/>[4. Academics               |](#acad)
+<img src="icons/moocs.png" width="50"/>   [5. Online Courses          |](#moocs)
+<img src="icons/cert1.png" width="50"/>   [6. Training & Certification|](#training)
+<br><img src="icons/comp.png" width="50"/>[7. Computer Proficiency    |](#training)
+<img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites       |](#training)
+<img src="icons/jobexp.png" width="50"/>  [9. Interview FAQs          |](#training)
 
-[]()  |      
-------|------
-<img src="icons/aboutme.png" width="50"/> | [1. About My                ](#myself)
 
-|.|.|.|
-|:--|:--|:--|
-|<img src="icons/aboutme.png" width="50"/> [1. About My](#myself)|<img src="icons/res.png" width="50"/>[2. Research                ](#research)|<img src="icons/work.png" width="50"/>[3. Work Experiance         ](#work)|
-
-4. ACADEMICS
-    * masters
-    * undergrad
-    * schooling
-6. Online Courses
-7. ACADEMICS
-8. MOOCs
-9. Training and certification
-    - co-cirricular
-    * lectures
-    * workshop
-10. Computer proficiency
-11. Language competancy
-12. Lesuire time activites-
-13. BOOKS -->
-
-![some text](icons/aboutme.png 'About me' =30x25) About Me
-
-[![text](icons/univ.png 'Research at IITM' =50x50)Education](#iitmlife)
-[![text](icons/res.png 'Education' =50x50)Research ](#research)
-[![text](icons/acad.png 'Academics' =50x50)Academics](link)
-[![text](icons/moocs.png 'MOOCs' =50x50)Online Courses](link)
-[![text](icons/cert1.png 'Training and Certification' =50x50)Training & Certification](link)
-[![text](icons/scatter.png 'Computer Proficiency' =50x50)Computer Proficiency](link)
-[![text](icons/lang.png 'A1 German & Spanish' =50x50)Language Competancy](link)
-[![text](icons/work.png 'A1 German & Spanish' =50x50)Work Experiance](link)
-[![text](icons/icons8-guitar-48.png 'Lesuire' =50x50)Lesuire Activites](link)
-[![text](icons/job.png 'Job Expectations' =50x50)Job Expectations](#chapter)
-[![text](icons/gallery.png 'Pictures' =50x50)Image Gallery](#gallery)
 
 **This Page is incomplete**
 <!-- Contents of this page was developed by the candidate in [markdown](link 'click to view the source file'). -->
