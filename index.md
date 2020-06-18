@@ -1,6 +1,6 @@
 <img src="icons/aboutme.png" width="50"/> [1. About My](#myself)
 <img src="icons/res.png" width="50"/> [2. Research](#research)
-<img src="icons/cert1.png" width="50"/> [3. Work Experiance](#work)
+<img src="icons/work.png" width="50"/> [3. Work Experiance](#work)
 <img src="icons/acad.png" width="50"/> [4. Academics](#acad)
 <img src="icons/moocs.png" width="50"/> [5. Online Courses](#moocs)
 <img src="icons/cert1.png" width="50"/> [6. Training & Certification](#training)
