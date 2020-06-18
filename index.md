@@ -96,7 +96,7 @@ My inclination towards science education and the love I had for my family was th
 Desires to persue masters was my choice when my parents wished me to takeup a job aftermy undergrad.
 I was training myself hard and truly started enjoing my academics and personal life like never before. -->
 
-To know more about my research work [ilailabs.github.io/research-elankovanmg](link)
+To know more about my research work [ilailabs.github.io/research-elankovanmg](https://ilailabs.github.io/research-elankovanmg/)
 
 ----------------------------
 
