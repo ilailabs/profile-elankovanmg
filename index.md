@@ -4,7 +4,7 @@
 
 <img src="icons/comp.png" width="50"/>[7. Computer Proficiency](#training) | <img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites](#training) | <img src="icons/jobexp.png" width="50"/>  [9. Interview FAQs](#training)
 
-**This Page is incomplete: Deadline is 26-June-2020**
+**This Page is incomplete: Deadline is 2-June-2020**
 
 <!-- Contents of this page was developed by the candidate in [markdown](link 'click to view the source file'). -->
 
@@ -15,7 +15,7 @@
 <a name=myselfeee></a>
 ## ABOUT ME
 
-<!-- Here is something about me
+Here is something about me
 
 I still remember the days I played with LEDs diodes DC motors and dismantling the toys bursting out of curiousity, electronics was my favourite hobby I prefer it than playing with my friends outdoors.
 Those were the most beautiful days of my childhood.
@@ -32,7 +32,7 @@ My dad is self-employed owns a small business and very thoughtfull, I just remem
 I hate when my parents say 'learn from her, the way she is'.Now she's a mother to a little kid and works for IT. Life gave me some new demonstrations when I turned 21, I was depressed to the core for some reasons, my dad is unable to recover from the financial crash that he had few years back. I belived I deserve a better life and the following year I managed to get into the nations best institues for masters degree of my choice. --> -->
 
 <!-- To know more about my idea of life, people whom I admire and my opinion on spirituality vist my personal page [ilailabs.github.io/personal-life-elankovanmg](link) -->
-<!-- > Learn form the best, Aim for the best. -->
+<!-- > Learn form the best, Aim for the best.
 
 <!-- I'm native to Chennai and 25 years old.
 My dad is self employed and own's a small bussiness my family lives here for more than three decades.
