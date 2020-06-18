@@ -508,7 +508,7 @@ all interview faqs here
 **Disclaimer**:
 Contents in this page are genuine and accurate to the best of my knowledge. And intended only for recruitment purposes. Please do not discolse or share any personal informations without my consent.
 
-<br>Written by: Elankovan M. G.(candidate)
+<br>Written by: Elankovan M. G.(candidate) in markdown with atom text editor
 <br>Last Updated: 19-June-20
 
 <br><img src="icons/gmail.png" width="20"> **elankovanmg@gmail.com**
