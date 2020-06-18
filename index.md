@@ -1,6 +1,5 @@
-1. About Me <img src="icons/aboutme.png" width="30"/>
-2. LIFE AT IITM
-3. RESEARCH
+1. About Me <img src="icons/aboutme.png" width="50"/>
+2. Research <img src="icons/res.png" width="50"/>
 4. ACADEMICS
     * masters
     * undergrad
