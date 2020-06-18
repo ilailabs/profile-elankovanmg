@@ -1,4 +1,4 @@
-<img src="icons/aboutme.png" width="50"/> [1. About Me](#myself) | <img src="icons/res.png" width="50"/>[2. Research](#research) | <img src="icons/work.png" width="50"/> [3. Work Experiance         ](#work) 
+<img src="icons/aboutme.png" width="50"/> [1. About Me](#myself) | <img src="icons/res.png" width="50"/>[2. Research](#research) | <img src="icons/work.png" width="50"/> [3. Work Experiance         ](#work)
 
 <img src="icons/acad.png" width="50"/>[4. Academics](#acad)| <img src="icons/moocs.png" width="50"/>   [5. Online Courses](#moocs) | <img src="icons/cert1.png" width="50"/>   [6. Training & Certification](#training)
 
@@ -6,7 +6,7 @@
 
 
 
-**This Page is incomplete: Deadline is 20-June-20**
+**This Page is incomplete: Deadline is 22-June-20**
 <!-- Contents of this page was developed by the candidate in [markdown](link 'click to view the source file'). -->
 
 <!-- link to github page. -->
@@ -16,6 +16,8 @@
 *<u>NOTE:</u> Click on the icons and `Home` button to navigate*
 <a name=aboutme></a>
 ## ABOUT ME
+
+Here is something about me
 <!--
 I still remember the days I played with LEDs diodes DC motors and dismantling the toys bursting out of curiousity, electronics was my favourite hobby I prefer it than playing with my friends outdoors.
 Those were the most beautiful days of my childhood.
@@ -104,6 +106,6 @@ To know more about my research work [ilailabs.github.io/research-elankovanmg](ht
 <!-- > This document is accurate to the best of my knowledge and written by me in markdown format for recruitment purposes only. Any information in this page cannot be disclosed without my concent. Thanks for your patience and intrest. Happy Hiring!
   [resume]: \\\
   [markdown]: \\\ -->
-  
+
   Page Views: <img src="https://hitwebcounter.com/counter/counter.php?page=7441543&style=0007&nbdigits=4&type=page&initCount=0" height="15"/>
   Unique Viewers: <img src="https://hitwebcounter.com/counter/counter.php?page=7441544&style=0007&nbdigits=4&type=ip&initCount=0" height="15"/>
