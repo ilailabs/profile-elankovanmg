@@ -104,3 +104,6 @@ To know more about my research work [ilailabs.github.io/research-elankovanmg](ht
 <!-- > This document is accurate to the best of my knowledge and written by me in markdown format for recruitment purposes only. Any information in this page cannot be disclosed without my concent. Thanks for your patience and intrest. Happy Hiring!
   [resume]: \\\
   [markdown]: \\\ -->
+  
+  Page Views: <img src="https://hitwebcounter.com/counter/counter.php?page=7441543&style=0007&nbdigits=4&type=page&initCount=0">
+  Unique Viewers: <img src="https://hitwebcounter.com/counter/counter.php?page=7441544&style=0007&nbdigits=4&type=ip&initCount=0">
