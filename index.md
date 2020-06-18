@@ -4,7 +4,7 @@
 
 <img src="icons/comp.png" width="50"/>[7. Computer Proficiency](#training) | <img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites](#training) | <img src="icons/jobexp.png" width="50"/>  [9. Interview FAQs](#training)
 
-**This Page is incomplete: Deadline is 2-June-2020**
+**This Page is incomplete: Deadline is 20-June-2020**
 
 <!-- Contents of this page was developed by the candidate in [markdown](link 'click to view the source file'). -->
 
@@ -12,7 +12,7 @@
 
 <!-- Download this document page again ( [html](markdown.html), [pdf](markdown.pdf) ), incase of inaccessability.   -->
 
-<a name=myselfeee></a>
+(#myself)
 ## ABOUT ME
 
 Here is something about me
@@ -45,8 +45,8 @@ I know this decision would change my life but had no idea upto what extend will 
 It is here I started learning music, two foriegn languages and started discovering myself. I'm excited about the opporunites that I may get tommorw so preparing hard and learning hard to live.
 } -->
 
-<a name=myself></a>
-## LIFE AT IITM
+(#research)
+## Research
 
 <!-- > It's possible to be busy without being effective. -->
 
