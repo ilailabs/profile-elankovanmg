@@ -6,3 +6,5 @@ show_downloads: true
 email: elankovanmg@gmail.com
 
 markdown: kramdown
+
+theme: jekyll-theme-cayman
