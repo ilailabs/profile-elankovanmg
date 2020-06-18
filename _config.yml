@@ -5,6 +5,6 @@ show_downloads: false
 # analytics_id: [Your Google Analytics tracking ID]theme: jekyll-theme-cayman
 email: elankovanmg@gmail.com
 
-markdown: kramdown
+# markdown: kramdown
 
 theme: jekyll-theme-cayman
