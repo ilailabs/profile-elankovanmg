@@ -8,6 +8,9 @@
 <img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites       ](#training)
 <img src="icons/jobexp.png" width="50"/>  [9. Interview FAQs          ](#training)
 
+[]()  |      
+------|------
+<img src="icons/aboutme.png" width="50"/> | [1. About My                ](#myself)
 
 |.|.|.|
 |:--|:--|:--|
