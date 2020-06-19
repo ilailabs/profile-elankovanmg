@@ -15,7 +15,7 @@ Please remember to use `HOME` button and `Ctrl+F` to navigate and search within 
 <a name="myself"></a>
 ## 1. About Me
 
-I joined Computational Materials Modelling(CMM) Group in 2017 lead by [Prof. Narasimhan Swaminathan](https://home.iitm.ac.in/n.swaminathan/) as an [<u>Interdisciplinary</u>](https://drive.google.com/file/d/1lel8A2oP7el56gdNdnFva8FgbY1ygW0s/view?usp=sharing) research scholar in the Department of Mechanical Engineering(Design) and in the Department of Physics under the research supervision of [Prof. C. V. Krishnamurthy.](http://iitm.irins.org/profile/61936)
+I joined Computational Materials Modelling(CMM) Group in 2017 lead by [Prof. Narasimhan Swaminathan](https://home.iitm.ac.in/n.swaminathan/) as an [<u>Interdisciplinary</u>](https://drive.google.com/file/d/1DkXWoNmhD11DaDYZPCuqvqhp2ZtykJT2/view?usp=sharing) research scholar in the Department of Mechanical Engineering(Design) and in the Department of Physics under the research supervision of [Prof. C. V. Krishnamurthy.](http://iitm.irins.org/profile/61936)
 Inclination towards Science and Mathematics and the love that I had for my family has motivated me to join IITM to pursue research education.
 My first emotional touch and 'aah haa! moment' with science was during my middle school days when I turned a stainless steel coin into a copper coated one (stole some copper sulphate salt from my chemistry lab, I was naughty and mischievous boy those days)
 I also didn’t believe in a few of the things that my physics teacher taught me, so I had to do some stone throwing experiments from my terrace.
