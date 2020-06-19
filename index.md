@@ -187,6 +187,7 @@ Contents in this page are genuine and accurate to the best of my knowledge. And 
 <br>Last Updated: 19-June-20
 
 <a name=email></a>
+
 <br><img src="icons/gmail.png" width="20"> **elankovanmg@gmail.com**
 <br><img src="icons/whatsapp.png" width="20"> +91 99402 75\*\*\*
 <br><img src="icons/twitter.png" width="20">[#elangovan_ilai](https://twitter.com/elangovan_ilai)
