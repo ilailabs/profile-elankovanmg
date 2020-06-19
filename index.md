@@ -6,7 +6,7 @@
 
 Please remember to use `HOME` button and `Ctrl+F` to navigate and search within this page.
 
-**Please enter last 4 digits of my IITM Placement registration ID ME1232\*\*\* to open the PDF documents in this page**[Check my resumae top right corner shared with you or [email](#email) me for passcode]
+**Please enter last 4 digits of my IITM Placement registration ID ME1232\*\*\* to open the PDF documents below**(Check the top right corner of my resumae shared with you or [email](#email) me for the password)
 
 <br>[I Resume-Data Sciences and Machine Learning Profile](docs/resume1.pdf "Download as PDF")
 <br>[II Resume-Research Engineer Mechanical Design Profile](docs/resume2.pdf "Download as PDF")
@@ -25,16 +25,16 @@ Please remember to use `HOME` button and `Ctrl+F` to navigate and search within 
 
 I joined Computational Materials Modelling(CMM) Group in 2017 lead by [Prof. Narasimhan Swaminathan](https://home.iitm.ac.in/n.swaminathan/) as an [<u>Interdisciplinary</u>](https://drive.google.com/file/d/1DkXWoNmhD11DaDYZPCuqvqhp2ZtykJT2/view?usp=sharing) research scholar in the Department of Mechanical Engineering(Design) and in the Department of Physics under the research supervision of [Prof. C. V. Krishnamurthy.](http://iitm.irins.org/profile/61936)
 My Inclination towards Science and Mathematics and the love that I had for my family was my motivation to join IITM to pursue research education.
-My first 'aah haa! moment' with science was during my middle school days when I sucessfully electroplated a stainless-steel coin into a copper coated one with a mobile phone charger and unused copper wires (stole some copper sulphate salt from my chemistry lab, I was naughty and mischievous kid those days)
-I also couldn't believe in a few interesting things my Physics teacher taught me, until I convice myself doing small science experiments.
+My first real encounter with science was during my middle school days when I sucessfully electroplated a stainless-steel coin into a copper coated one with a mobile phone charger and unused copper wires (stole some copper sulphate salt from my chemistry lab, I was naughty and mischievous kid those days)
+I also couldn't believe in a few interesting things my physics teacher taught me, until I convice myself doing small science experiments.
 I was very curious and had too much fun with experimenting some science stuffs and enjoyed playing with diodes DC motors and LEDs with my cousin.
-Infact I think spending too much time with myself in my early childhood days has reflected in my introverted(mostly) personality when I grew up.
-Those days were one among the happiest phases of my life and I had aspirations of becoming an World Class Engineer someday since then.
-I have always fascinated and admired technology the way they empower  humankind.
-Internet and Flying machines were my favourite.
+Infact I think spending too much time with myself in my early childhood days has reflected in my introverted(mostly, well mingles in social groups) personality when I grew up.
+Those days were the happiest phases of my life and I had aspirations of becoming an world class engineer someday since then.
+I always had fascination over technology and the way they empower  humankind.
+Internet and flying machines were my favourite among them.
 
 Philosophy and Psychology is something that I appreciate and understand apart from my discipline.
-I was most influenced by the teachings of Dr. Jordan Peterson and his views on life and also inspired by the writings of American Philosopher Dr. Wyane Dyer.
+I was most influenced by the teachings of Dr. Jordan Peterson and his views on life and also inspired by the writings of american philosoper Dr. Wyane Dyer.
 I recently developed some interest in Entrepreneurship and Behavioural science, influenced by the talks of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) & some of the professors I met, [Prof LSG](https://doms.iitm.ac.in/index.php/ganesh-l-s) (DoMs-IITM) and [Prof Murali](https://www.ubc.ca/about/one-on-one/leadership/murali-chandrashekaran.html) from UBC who mentored me for a social project.
 <!-- Vist my personal home page to know my other interests and my opinion about life. -->
 
@@ -53,7 +53,7 @@ I recently developed some interest in Entrepreneurship and Behavioural science, 
 To know more about my research : [*ilailabs.github.io/research-elankovanmg*](https://ilailabs.github.io/research-elankovanmg/)
 
 <a name="work"></a>
-## 3. Project and Work Experiances
+## 3. Projects and Work Experiances
 
 **Work Experiances**
 * 3+ years of academic research
@@ -130,7 +130,7 @@ To know more about my research : [*ilailabs.github.io/research-elankovanmg*](htt
 * Skills in materials modelling
 
 <a name="computer"></a>
-## 7. Computer Proficiency and Skills
+## 7. Computer Proficiency & Skills
 
 * 3+ years of linux
 * matlab
@@ -145,7 +145,7 @@ To know more about my research : [*ilailabs.github.io/research-elankovanmg*](htt
 
 
 <a name="hobbies"></a>
-## 8. Lesiure Activites and Hobbies
+## 8. Lesiure Activites & Hobbies
 
 * Playing guitar
 * Indian classical music
@@ -163,7 +163,7 @@ To know more about my research : [*ilailabs.github.io/research-elankovanmg*](htt
 * cycling
 
 <a name="faqs"></a>
-## 9. Interview FAQs and Job Expectactions
+## 9. Interview FAQs & Job Expectactions
 
 * Whats your primary job expectations?
 * Would you prefer Non-Core jobs to Core-Jobs?
@@ -183,7 +183,7 @@ To know more about my research : [*ilailabs.github.io/research-elankovanmg*](htt
 **Disclaimer**:
 Contents in this page are genuine and accurate to the best of my knowledge. And intended only for recruitment purposes. Please do not discolse or share any personal informations without my consent.
 
-<br>Written by: Elankovan M. G.(candidate) in markdown with atom text editor
+<br>Written by: Elankovan M. G.(candidate) in [markdown]( “View page source file”) with atom text editor
 <br>Last Updated: 19-June-20
 
 <a name="email"></a>
