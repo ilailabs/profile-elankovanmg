@@ -6,7 +6,7 @@
 
 Remember to use `HOME` button and `Ctrl+F` to navigate and search within this page.
 
-**Please enter last 4 digits of my IITM Placement registration ID ME1232\*\*\* to open the PDF documents below**(Check the top right corner of my resumae shared with you or [email](#email) me for the password)
+**Please enter last 4 digits of my IITM Placement registration ID ME1232\*\*\* to open the PDF documents below**(Check the resume top right corner shared with you or [email](#email) me for the password)
 
 <br>[I Resume-Data Sciences and Machine Learning Profile](docs/resume1.pdf "Download as PDF")
 <br>[II Resume-Research Engineer Mechanical Design Profile](docs/resume2.pdf "Download as PDF")
@@ -35,22 +35,40 @@ Internet and flying machines were my favourite among them.
 
 Philosophy and Psychology is something that I appreciate and understand apart from my discipline.
 I was most influenced by the teachings of Dr. Jordan Peterson and his views on life and also inspired by the writings of american philosoper Dr. Wyane Dyer.
-I recently developed some interest in Entrepreneurship and Behavioural science, influenced by the talks of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) & some of the professors I met over the past few years, [Prof LSG](https://doms.iitm.ac.in/index.php/ganesh-l-s) (DoMs-IITM) and [Prof Murali](https://www.ubc.ca/about/one-on-one/leadership/murali-chandrashekaran.html) from UBC who mentored me for a social project.
+I recently developed some interest in Entrepreneurship and Behavioural science, influenced by the talks of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) & some of the professors I met over the past few years, [Prof LSG](https://doms.iitm.ac.in/index.php/ganesh-l-s) (DoMs-IITM) and [Prof Murali](https://www.ubc.ca/about/one-on-one/leadership/murali-chandrashekaran.html) from UBC who mentored me for a [social project](#curp).
 <!-- Vist my personal home page to know my other interests and my opinion about life. -->
 
 <a name="research"></a>
 ## 2. Research at IITM
 
-* research title
-* abstract of work
-* images and animations gifs
-* Publications
-* Talks
-* Articles
+### Kaptiza Resistance and Elastic Phonon Scattering at Grain Boundary Interfaces in Silicon
 
-* Future resarch plans
+My research objectives are two folds. First to study the thermal heat transport charecteristics of various Grain Boundary(GB) interfaces in silicon bicrystal models using computer simulations.
+GBs are very thin amorphous layer between two crystals with relative misorientation to each other as shown below.
 
-To read more on this topic checkout my **research profile** : [ilailabs.github.io/research-elankovanmg](https://ilailabs.github.io/research-elankovanmg/)
+![](images/gb_6a.JPG "Figure showing grain boundary interface at the center")
+
+When the thermal energy(heat) flows from crystal A(on the left) to crystal B(on the right) there is some energy loss due to thermal energy carrier scattering at the interface.
+This results in a temperature drop or discontinuity to the flow of thermal heat current.
+Different interfaces shows different temperature drop to the same magnitude of thermal heat current, and therefore thermal boundary resistance is an intrinsic property of the interface.
+I studied various symmetric tilt grain boundaries in Silicon trying to figure out on what factors these thermal boundary resistace depends.
+
+To get deeper insights into the thermal boundary resistance, the later part of the research focus on phonon-wave-packet(could be considered as a particles of heat) scattering at the interface.
+Since the mechanism of Sound and Heat propogation in a solid material is similar, we investigated the wave-packet that propogates across the interface. The animations below shows a wave-packet that passes through the one-dimensional model of the interface where some part of a wave is reflected and most of them are transmitted at the interface.
+![](images/wave_0.2a.gif "x-axis=1-d chain length of 10000 atoms; y-axis=Displacement of group of atoms")
+
+**Potential Applications**:
+* In the design of fucntional materials like micro-electronic semiconductor devices(microprocessors)
+* Design of new structural materials for high thermal applications such as jet engine isolations, etc.
+
+**Simulations Techniques**:
+* Python and Matlab for modeling the GB-bicrystal samples.
+* Molecular Dynamics(MD) techniques to perform heat flow simulations using [LAMMPS](https://lammps.sandia.gov/doc/Intro_overview.html) software package
+* [OVITO](https://www.ovito.org/) software package to visualise the GB models
+* OVITO-python interpreter, and python for post-processing the simulations results
+
+<u>NOTE:</U> This article is non-technical, to read more vist my **Research Profile:** [ilailabs.github.io/research-elankovanmg](https://ilailabs.github.io/research-elankovanmg/)
+
 
 <a name="work"></a>
 ## 3. Projects and Work Experiances
