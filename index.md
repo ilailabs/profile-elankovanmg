@@ -46,7 +46,7 @@ I recently developed some interest in Entrepreneurship and Behavioural science, 
 My research objectives are two folds. First to study the thermal heat transport characteristics of various Grain Boundary(GB) interfaces in silicon bicrystal models using computer simulations.
 GBs are very thin amorphous layer between two crystals with relative misorientation to each other as shown below.
 <p align="center">
-<img src="images/gb_6a.JPG" "Figure showing grain boundary interface at the center">
+<img src="images/gb_6a.JPG">
 </p>
 When the thermal energy(heat) flows from crystal A(on the left) to crystal B(on the right) there is some energy loss due to thermal energy carrier scattering at the interface.
 This results in a temperature drop or discontinuity to the flow of thermal heat current.
@@ -56,7 +56,7 @@ I studied various symmetric tilt grain boundaries in Silicon trying to figure ou
 To get deeper insights into the thermal boundary resistance, the later part of the research focuses on phonon-wave-packet(could be considered as a particle of heat) scattering at the interface.
 Since the mechanism of Sound and Heat propagation in a solid material is similar, we investigated the wave-packet that propagates across the interface. The animation below shows a wave-packet that passes through the one-dimensional model of the interface where some part of a wave is reflected and most of them are transmitted at the interface.
 <p>
-<img src="images/wave_0.2a.gif" "x-axis=1-d chain length of 10000 atoms; y-axis=Displacement of group of atoms">
+<img src="images/wave_0.2a.gif">
 </p>
 
 
