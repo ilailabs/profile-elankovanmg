@@ -41,24 +41,24 @@ I recently developed some interest in Entrepreneurship and Behavioural science, 
 <a name="research"></a>
 ## 2. Research at IITM
 
-### Kaptiza Resistance and Elastic Phonon Scattering at Grain Boundary Interfaces in Silicon
+### <u>Kaptiza Resistance and Elastic Phonon Scattering at Grain Boundary Interfaces in Silicon</u>
 
-My research objectives are two folds. First to study the thermal heat transport charecteristics of various Grain Boundary(GB) interfaces in silicon bicrystal models using computer simulations.
+My research objectives are two folds. First to study the thermal heat transport characteristics of various Grain Boundary(GB) interfaces in silicon bicrystal models using computer simulations.
 GBs are very thin amorphous layer between two crystals with relative misorientation to each other as shown below.
 
 ![](images/gb_6a.JPG "Figure showing grain boundary interface at the center")
 
 When the thermal energy(heat) flows from crystal A(on the left) to crystal B(on the right) there is some energy loss due to thermal energy carrier scattering at the interface.
 This results in a temperature drop or discontinuity to the flow of thermal heat current.
-Different interfaces shows different temperature drop to the same magnitude of thermal heat current, and therefore thermal boundary resistance is an intrinsic property of the interface.
-I studied various symmetric tilt grain boundaries in Silicon trying to figure out on what factors these thermal boundary resistace depends.
+Different interfaces show different temperature drop to the same magnitude of thermal heat current, and therefore thermal boundary resistance is an intrinsic property of the interface.
+I studied various symmetric tilt grain boundaries in Silicon trying to figure out on what factors these thermal boundary resistance depends.
 
-To get deeper insights into the thermal boundary resistance, the later part of the research focus on phonon-wave-packet(could be considered as a particles of heat) scattering at the interface.
-Since the mechanism of Sound and Heat propogation in a solid material is similar, we investigated the wave-packet that propogates across the interface. The animations below shows a wave-packet that passes through the one-dimensional model of the interface where some part of a wave is reflected and most of them are transmitted at the interface.
+To get deeper insights into the thermal boundary resistance, the later part of the research focuses on phonon-wave-packet(could be considered as a particle of heat) scattering at the interface.
+Since the mechanism of Sound and Heat propagation in a solid material is similar, we investigated the wave-packet that propagates across the interface. The animation below shows a wave-packet that passes through the one-dimensional model of the interface where some part of a wave is reflected and most of them are transmitted at the interface.
 ![](images/wave_0.2a.gif "x-axis=1-d chain length of 10000 atoms; y-axis=Displacement of group of atoms")
 
 **Potential Applications**:
-* In the design of fucntional materials like micro-electronic semiconductor devices(microprocessors)
+* In the design of functional materials like microelectronic semiconductor devices(microprocessors)
 * Design of new structural materials for high thermal applications such as jet engine isolations, etc.
 
 **Simulations Techniques**:
@@ -67,7 +67,7 @@ Since the mechanism of Sound and Heat propogation in a solid material is similar
 * [OVITO](https://www.ovito.org/) software package to visualise the GB models
 * OVITO-python interpreter, and python for post-processing the simulations results
 
-<u>NOTE:</U> This article is non-technical, to read more vist my **Research Profile:** [ilailabs.github.io/research-elankovanmg](https://ilailabs.github.io/research-elankovanmg/)
+<u>NOTE:</U> This article is non-technical, to read more visit my **Research Profile:** [ilailabs.github.io/research-elankovanmg](https://ilailabs.github.io/research-elankovanmg/)
 
 
 <a name="work"></a>
@@ -201,7 +201,7 @@ Since the mechanism of Sound and Heat propogation in a solid material is similar
 **Disclaimer**:
 Contents in this page are genuine and accurate to the best of my knowledge. And intended only for recruitment purposes. Please do not discolse or share any personal informations without my consent.
 
-<br>Written by: Elankovan M. G.(candidate) in [markdown]( “View page source file”) with atom text editor
+<br>Written by: Elankovan M. G.(candidate) in [markdown](https://github.com/ilailabs/profile-elankovanmg/blob/master/index.md “View page source file”) with atom text editor
 <br>Last Updated: 19-June-20
 
 <a name="email"></a>
