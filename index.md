@@ -44,7 +44,7 @@ I recently developed some interest in Entrepreneurship and Behavioural science, 
 ### <u>Kaptiza Resistance and Elastic Phonon Scattering at Grain Boundary Interfaces in Silicon</u>
 
 <p align="center"><img src="images/gb_6a.JPG"></p>
-My research objectives are two folds. First to study the thermal heat transport characteristics of various Grain Boundary(GB) interfaces in silicon bicrystal models using computer simulations.
+I studied the thermal heat transport characteristics of various Grain Boundary(GB) interfaces in silicon bicrystal models using computer simulations.
 GBs are very thin amorphous layer between two crystals with relative misorientation to each other as shown below.
 When the thermal energy(heat) flows from crystal A(on the left) to crystal B(on the right) there is some energy loss due to thermal energy carrier scattering at the interface.
 This results in a temperature drop or discontinuity to the flow of thermal heat current.
@@ -53,13 +53,11 @@ I studied various symmetric tilt grain boundaries in Silicon trying to figure ou
 
 To get deeper insights into the thermal boundary resistance, the later part of the research focuses on phonon-wave-packet(could be considered as a particle of heat) scattering at the interface.
 Since the mechanism of Sound and Heat propagation in a solid material is similar, we investigated the wave-packet that propagates across the interface. The animation below shows a wave-packet that passes through the one-dimensional model of the interface where some part of a wave is reflected and most of them are transmitted at the interface.
-<p>
-<img src="images/wave_0.2a.gif">
-</p>
+<p><img src="images/wave_0.2a.gif"></p>
 
 
 **Potential Applications**:
-* In the design of functional materials like microelectronic semiconductor devices(microprocessors)
+* In the design of functional materials like microelectronic semiconductor devices
 * Design of new structural materials for high thermal applications such as jet engine isolations, etc.
 
 **Simulations Techniques**:
