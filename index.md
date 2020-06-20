@@ -4,7 +4,7 @@
 
 <img src="icons/comp.png" width="50"/>[7. Computer Proficiency](#computer) | <img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites](#hobbies) | <img src="icons/jobexp.png" width="50"/>  [9. Interview FAQs](#faqs)
 
-Please remember to use `HOME` button and `Ctrl+F` to navigate and search within this page.
+Remember to use `HOME` button and `Ctrl+F` to navigate and search within this page.
 
 **Please enter last 4 digits of my IITM Placement registration ID ME1232\*\*\* to open the PDF documents below**(Check the top right corner of my resumae shared with you or [email](#email) me for the password)
 
@@ -28,14 +28,14 @@ My Inclination towards Science and Mathematics and the love that I had for my fa
 My first real encounter with science was during my middle school days when I sucessfully electroplated a stainless-steel coin into a copper coated one with a mobile phone charger and unused copper wires (stole some copper sulphate salt from my chemistry lab, I was naughty and mischievous kid those days)
 I also couldn't believe in a few interesting things my physics teacher taught me, until I convice myself doing small science experiments.
 I was very curious and had too much fun with experimenting some science stuffs and enjoyed playing with diodes DC motors and LEDs with my cousin.
-Infact I think spending too much time with myself in my early childhood days has reflected in my introverted(mostly, well mingles in social groups) personality when I grew up.
+Infact I think spending too much time with myself in my early childhood days has reflected in my introverted(mostly) personality when I grew up.
 Those days were the happiest phases of my life and I had aspirations of becoming an world class engineer someday since then.
 I always had fascination over technology and the way they empower  humankind.
 Internet and flying machines were my favourite among them.
 
 Philosophy and Psychology is something that I appreciate and understand apart from my discipline.
 I was most influenced by the teachings of Dr. Jordan Peterson and his views on life and also inspired by the writings of american philosoper Dr. Wyane Dyer.
-I recently developed some interest in Entrepreneurship and Behavioural science, influenced by the talks of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) & some of the professors I met, [Prof LSG](https://doms.iitm.ac.in/index.php/ganesh-l-s) (DoMs-IITM) and [Prof Murali](https://www.ubc.ca/about/one-on-one/leadership/murali-chandrashekaran.html) from UBC who mentored me for a social project.
+I recently developed some interest in Entrepreneurship and Behavioural science, influenced by the talks of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) & some of the professors I met over the past few years, [Prof LSG](https://doms.iitm.ac.in/index.php/ganesh-l-s) (DoMs-IITM) and [Prof Murali](https://www.ubc.ca/about/one-on-one/leadership/murali-chandrashekaran.html) from UBC who mentored me for a social project.
 <!-- Vist my personal home page to know my other interests and my opinion about life. -->
 
 <a name="research"></a>
@@ -50,7 +50,7 @@ I recently developed some interest in Entrepreneurship and Behavioural science, 
 
 * Future resarch plans
 
-To know more about my research : [*ilailabs.github.io/research-elankovanmg*](https://ilailabs.github.io/research-elankovanmg/)
+To read more on this topic checkout my **research profile** : [ilailabs.github.io/research-elankovanmg](https://ilailabs.github.io/research-elankovanmg/)
 
 <a name="work"></a>
 ## 3. Projects and Work Experiances
