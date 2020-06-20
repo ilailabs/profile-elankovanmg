@@ -35,7 +35,7 @@ Internet and flying machines were my favourite among them.
 
 Philosophy and Psychology is something that I appreciate and understand apart from my discipline.
 I was most influenced by the teachings of Dr. Jordan Peterson and his views on life and also inspired by the writings of american philosoper Dr. Wyane Dyer.
-I recently developed some interest in Entrepreneurship and Behavioural science, influenced by the talks of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) & some of the professors I met over the past few years, [Prof LSG](https://doms.iitm.ac.in/index.php/ganesh-l-s) (DoMs-IITM) and [Prof Murali](https://www.ubc.ca/about/one-on-one/leadership/murali-chandrashekaran.html) from UBC who mentored me for a [social project](#curp).
+I recently developed some interest in Entrepreneurship and Behavioural science, influenced by the talks of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) & some of the professors I met in the past few years, [Prof LSG](https://doms.iitm.ac.in/index.php/ganesh-l-s) (DoMs-IITM) and [Prof Murali](https://www.ubc.ca/about/one-on-one/leadership/murali-chandrashekaran.html) from UBC who mentored me for a [social project](#curp).
 <!-- Vist my personal home page to know my other interests and my opinion about life. -->
 
 <a name="research"></a>
@@ -113,7 +113,7 @@ Since the mechanism of Sound and Heat propagation in a solid material is similar
 |:---|:---|:---:|
 | Indian Institue of Technology Madras, Chennai   | MS by research   | 2020   |
 | Thanthai Periyar Govt. Institute of Technology, Vellore | B.E in Mechanical | 2016
-| Velammal Mat. Hr. Sec. School, Channai | Higher Secondary | 2012 |
+| Velammal Mat. Hr. Sec. School, Chennai | Higher Secondary | 2012 |
 
 **List of Publications**
 * here mention some list
@@ -188,12 +188,30 @@ Since the mechanism of Sound and Heat propagation in a solid material is similar
 <a name="faqs"></a>
 ## 9. Interview FAQs & Job Expectactions
 
+* Why do you think someone should hire you?
+* Why do you prefer a job related to data science/analytics/ML being a mechanical engineer?
+* Whats your motivation to learn programming?
+* What would be your criteria to choose a job-offer in case you get multiple offers?
++Job Location(willing to relocate)
 * Whats your primary job expectations?
-* Would you prefer Non-Core jobs to Core-Jobs?
-* What makes you think you are a potential candidate?
 * How do you see yourself in the next five years?
-* Are you willing to relocate?
-* Would you be interested in travelling a lot for business meetings and conferences?
+* How good are you working with teams?
+* What is that one thing that drastically improved your productivity recently?
+* How to you deal with distraction at work/productive hours?
+* What helps you stay motivated when you face challenges or when things didn't work?
+* Tell us about your first job interview experiances?
+* Whats your opinion about entreprenurship? Why do you think leadership skills are extremly important?
+* What are your strengths? What are the things that your proud of yourself?
+* What are your weeknesses? Have you taken any steps to imporve them?
+- Trying to do multiple things at same time didn't work for me. Focus one thing at a time. Multitaking
+* What are the few qualities that you admire in yourself?
+* What qualities you admire in a leader?
+* Whats your motivation to teach Engineering Mathematics?
+* I have something else to aks you?
+
+
+<!-- * Would you be interested in travelling a lot for business meetings and conferences? -->
+
 
 ## Referances:
 1. sir1
@@ -206,7 +224,7 @@ Since the mechanism of Sound and Heat propagation in a solid material is similar
 **Disclaimer**:
 Contents in this page are genuine and accurate to the best of my knowledge. And intended only for recruitment purposes. Please do not discolse or share any personal informations without my consent.
 
-<br>Written by: Elankovan M. G.(candidate) in [markdown](https://github.com/ilailabs/profile-elankovanmg/blob/master/index.md “View page source file”) with atom text editor
+<br>Written by: Elankovan M. G.(candidate) in [markdown](https://github.com/ilailabs/profile-elankovanmg/blob/master/index.md) with atom text editor
 <br>Last Updated: 19-June-20
 
 <a name="email"></a>
