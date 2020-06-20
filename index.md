@@ -108,9 +108,15 @@ Since the mechanism of Sound and Heat propagation in a solid material is similar
 ## 4. Academic Accomplishments
 
 **Schools Went**
-* IITM
-* TPGIT
-* VELAM...
+
+| Institute | Programme | Year |
+|:---|:---|:---:|
+| Indian Institue of Technology Madras, Chennai   | MS by research   | 2020   |
+| Thanthai Periyar Govt. Institute of Technology, Vellore | B.E in Mechanical | 2016
+| Velammal Mat. Hr. Sec. School, Channai | Higher Secondary | 2012 |
+
+**List of Publications**
+* here mention some list
 
 **Accomplishments**
 * gate 93.4 Percentile
