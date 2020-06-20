@@ -43,11 +43,9 @@ I recently developed some interest in Entrepreneurship and Behavioural science, 
 
 ### <u>Kaptiza Resistance and Elastic Phonon Scattering at Grain Boundary Interfaces in Silicon</u>
 
+<p align="center"><img src="images/gb_6a.JPG"></p>
 My research objectives are two folds. First to study the thermal heat transport characteristics of various Grain Boundary(GB) interfaces in silicon bicrystal models using computer simulations.
 GBs are very thin amorphous layer between two crystals with relative misorientation to each other as shown below.
-<p align="center">
-<img src="images/gb_6a.JPG">
-</p>
 When the thermal energy(heat) flows from crystal A(on the left) to crystal B(on the right) there is some energy loss due to thermal energy carrier scattering at the interface.
 This results in a temperature drop or discontinuity to the flow of thermal heat current.
 Different interfaces show different temperature drop to the same magnitude of thermal heat current, and therefore thermal boundary resistance is an intrinsic property of the interface.
