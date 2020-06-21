@@ -1,8 +1,8 @@
- <img src="icons/aboutme.png" width="50"/>[1. About Me](#myself) | <img src="icons/res.png" width="50"/>[2. Research](#research) | <img src="icons/work.png" width="50"/> [3. Work Experiance         ](#work)
+ <img src="icons/aboutme.png" width="50"/>[1. About Me](#myself) | <img src="icons/res.png" width="50"/>[2. Research](#research) | <img src="icons/work.png" width="50"/> [3. Work Experiance](#work)
 
 <img src="icons/acad.png" width="50"/>[4. Academics](#acad)| <img src="icons/moocs.png" width="50"/>   [5. Online Courses](#moocs) | <img src="icons/cert1.png" width="50"/>   [6. Training & Certification](#training)
 
-<img src="icons/comp.png" width="50"/>[7. Computer Proficiency](#computer) | <img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites](#hobbies) | <img src="icons/jobexp.png" width="50"/>  [9. Interview FAQs](#faqs)
+<img src="icons/comp.png" width="50"/>[7. Computer Proficiency & Skills](#computer) | <img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites](#hobbies) | <img src="icons/jobexp.png" width="50"/>  [9. Interview FAQs](#faqs)
 
 Remember to use `HOME` button and `Ctrl+F` to navigate and search within this page.
 
@@ -29,7 +29,7 @@ My first real encounter with science was during my middle school days when I suc
 I also couldn't believe in a few interesting things my physics teacher taught me, until I convice myself doing small science experiments.
 I was very curious and had too much fun with experimenting some science stuffs and enjoyed playing with diodes DC motors and LEDs with my cousin.
 Infact I think spending too much time with myself in my early childhood days has reflected in my introverted(mostly) personality when I grew up.
-Those days were the happiest phases of my life and I had aspirations of becoming an world class engineer someday since then.
+Those days were the happiest days of my life and I had aspirations of becoming an world class engineer someday since then.
 I always had fascination over technology and the way they empower  humankind.
 Internet and flying machines were my favourite among them.
 
@@ -48,11 +48,11 @@ I studied the thermal heat transport characteristics of various Grain Boundary(G
 GBs are very thin amorphous layer between two crystals with relative misorientation to each other as shown above.
 When the thermal energy(heat) flows from crystal A(on the left) to crystal B(on the right) there is some energy loss due to thermal energy carrier scattering at the interface.
 This results in a temperature drop or discontinuity to the flow of thermal heat current.
-Different interfaces show different temperature drop to the same magnitude of thermal heat current, and therefore thermal boundary resistance is an intrinsic property of the interface.
+Different interfaces shows different temperature drop to the same magnitude of thermal heat current, and therefore thermal boundary resistance is an intrinsic property of the interface.
 I studied various symmetric tilt grain boundaries in Silicon trying to figure out on what factors these thermal boundary resistance depends.
 
 To get deeper insights into the thermal boundary resistance, the later part of the research focuses on phonon-wave-packet(could be considered as a particle of heat) scattering at the interface.
-Since the mechanism of Sound and Heat propagation in a solid material is similar, we investigated the wave-packet that propagates across the interface. The animation below shows a wave-packet that passes through the one-dimensional model of an interface where some part of a wave is reflected and most of them are transmitted at the interface.
+Since the mechanism of Sound and Heat propagation in a crystalline solid is similar, we investigated the wave-packet that propagates across the interface. The animation below shows a wave-packet passing through an one-dimensional model of an interface where some part of a wave is reflected and most of them are transmitted at the interface.
 <p><img src="images/wave_0.2a.gif"></p>
 
 
@@ -189,6 +189,7 @@ Since the mechanism of Sound and Heat propagation in a solid material is similar
 ## 9. Interview FAQs & Job Expectactions
 
 * Why do you think someone should hire you?
+-passion for learing new things
 * Why do you prefer a job related to data science/analytics/ML being a mechanical engineer?
 * Whats your motivation to learn programming?
 * What would be your criteria to choose a job-offer in case you get multiple offers?
