@@ -8,9 +8,9 @@ Remember to use `HOME` button and `Ctrl+F` to navigate and search within this pa
 
 **Please enter last 4 digits of my IITM Placement registration ID ME1232\*\*\* to open the PDF documents below**(Check the resume top right corner shared with you or [email](#email) me for the password)
 
-<br>[I Resume-Data Sciences and Machine Learning Profile](docs/resume1.pdf "Download as PDF")
-<br>[II Resume-Research Engineer Mechanical Design Profile](docs/resume2.pdf "Download as PDF")
-<br>[III Resume-Data Analytics Profile](docs/resume3.pdf "Download as PDF")
+<br>[I Resume-Data Sciences and Machine Learning Profile](docs/letter1.md "Download as PDF")
+<br>[II Resume-Research Engineer Mechanical Design Profile](docs/letter2.md "Download as PDF")
+<br>[III Resume-Data Analytics Profile](docs/letter2.md.html "Download as PDF")
 
 <br>[I Recomendation Letter- Dr. Narasimhan Swaminathan](docs/letter1.pdf "From My Research Advisor")
 <br>[II Recomendation Letter - Dr. C. V. Krishnamurthy](docs/letter2.pdf "From My Research Advisor")
