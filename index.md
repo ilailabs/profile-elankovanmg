@@ -21,7 +21,7 @@ Remember to use `HOME` button and `Ctrl+F` to navigate and search within this pa
 
 
 <a name="myself"></a>
-## 1. About Me
+## 1. About Myself
 
 I joined Computational Materials Modelling(CMM) Group in 2017 lead by [Prof. Narasimhan Swaminathan](https://home.iitm.ac.in/n.swaminathan/) as an [<u>Interdisciplinary</u>](https://drive.google.com/file/d/1DkXWoNmhD11DaDYZPCuqvqhp2ZtykJT2/view?usp=sharing) research scholar in the Department of Mechanical Engineering(Design) and in the Department of Physics under the research supervision of [Prof. C. V. Krishnamurthy.](http://iitm.irins.org/profile/61936)
 My Inclination towards Science and Mathematics and the love that I had for my family was my motivation to join IITM to pursue research education.
