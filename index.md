@@ -14,6 +14,8 @@ Linkedin Profile: [linkedin.com/in/elankovanmg/](https://linkedin.com/in/elankov
 
 Scholars Profile: scholars.iitm.ac.in/profile/ME17S300
 
+[courses](docs/course_grades/courses.html)
+
 1. **ABOUT ME**
 
 (Resume-1)
