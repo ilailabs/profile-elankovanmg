@@ -1,245 +1,342 @@
-**MASTER RESUME - ME17S300**
+ <img src="icons/aboutme.png" width="50"/>[1. About Me](#myself) | <img src="icons/res.png" width="50"/>[2. Research](#research) | <img src="icons/work.png" width="50"/> [3. Work Experiance](#work)
 
-1. **APPLICANT DETAILS**
+<img src="icons/acad.png" width="50"/>[4. Academics](#acad)| <img src="icons/moocs.png" width="50"/>   [5. Online Courses](#moocs) | <img src="icons/cert1.png" width="50"/>   [6. Training & Certification](#training)
 
-<details>
-  <summary>Click to expand!</summary>
+<img src="icons/comp.png" width="50"/>[7. Computer Proficiency & Skills](#computer) | <img src="icons/hobbies.png" width="50"/> [8. Lesiure Activites](#hobbies) | <img src="icons/jobexp.png" width="50"/>  [9. Interview FAQs](#faqs)
 
-   Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
+<img src="icons/gallery.png" width="50"/>[10. Photo gallery](#gallery)
 
-Name: Elankovan M. G.
+Remember to use `HOME` button and `Ctrl+F` to navigate and search within this page.
 
-Roll No: ME17S300
+**Please enter the last 3 digits of my IIT-M Placement registration number to open any PDF documents in this page**(Check the resume top right corner shared with you or [email](#email) me for the password)
 
-Placement Reg. No: 00 / 00 / 000
+Say, if my IITM Placement registration number is `55/ME/20/028` please enter `028` as a password.
 
-Github Page: [ilailabs.github.io/profile-elankovanmg](https://ilailabs.github.io/profile-elankovanmg/)[ACTIVATE THIS LINK]
+<br>[I Resume- Data Sciences and Machine Learning Profile](docs/F2.pdf "Download as PDF")
+<br>[II Resume-Research Engineer Mechanical R&D](docs/F1.pdf "Download as PDF")
 
-Linkedin Profile: [linkedin.com/in/elankovanmg/](https://linkedin.com/in/elankovanmg/)[UPDATE-OPEN FOR RECRUITMENT]
+<!--
+<br>[I Recomendation Letter- Dr. Narasimhan Swaminathan](docs/letter1.pdf "From My Research Advisor")
+<br>[II Recomendation Letter - Dr. C. V. Krishnamurthy](docs/letter2.pdf "From My Research Advisor")
+<br>[III Recomendation Letter - Dr. A. Sai Ramesh](docs/letter3.pdf "From My Past Project Mentor")
+<br>[IV Recomendation Letter - Director IM AN IAS ACADEMY](docs/letter4.pdf "From My Past Recruiter")
+<br>[V LinkedIn Recomendation - Dr. Murali Chandrashekaran](link "From My Past Project Mentor")
+<br>[VI Recomendation Letter - Dr. T. Sekar](docs/letter5.pdf "From My Past Project Mentor") -->
 
-Scholars Profile: scholars.iitm.ac.in/profile/ME17S300
 
-[courses](docs/MY_COURSES/allcourses.html)
+<a name="myself"></a>
+## 1. About Me
 
-1. **ABOUT ME**
+I joined Computational Materials Modelling(CMM) Group in 2017 lead by [Prof. Narasimhan Swaminathan](https://home.iitm.ac.in/n.swaminathan/) as an interdisciplinary research scholar in the Department of Mechanical Engineering(Design) and in the Department of Physics under the research supervision of [Prof. C. V. Krishnamurthy.](http://iitm.irins.org/profile/61936)
+My Inclination towards Science and Mathematics and the love that I had for my family was my motivation to join IITM to pursue research education.
+My first real encounter with science was during my middle school days when I sucessfully electroplated a stainless-steel coin into a copper coated one with a mobile phone charger and unused copper wires (stole some copper sulphate salt from my chemistry lab)
+I also couldn't believe in a few interesting things my physics teacher taught me, until I convice myself doing small science experiments.
+I was very curious and had too much fun with experimenting some science stuffs and enjoyed playing with diodes DC motors and LEDs with my cousin.
+Infact I think spending too much time with myself in my early childhood days has reflected in my introverted(mostly) personality when I grew up.
+Those days were the happiest days of my life and I had aspirations of becoming an world class engineer someday since then.
+I always had fascination over technology and the way they empower  humankind.
+Internet and flying machines were my favourite among them.
 
-(Resume-1)
+Philosophy and Psychology is something that I appreciate and understand apart from my discipline.
+I was most influenced by the teachings of Dr. Jordan Peterson and his views on life and also inspired by the writings of american philosoper Dr. Wyane Dyer.
+I recently developed some interest in Entrepreneurship and Behavioural science, influenced by the talks of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) & some of the professors I met in the past few years, [Prof LSG](https://doms.iitm.ac.in/index.php/ganesh-l-s) (DoMs-IITM) and [Prof Murali](https://www.ubc.ca/about/one-on-one/leadership/murali-chandrashekaran.html) from UBC who mentored me for a [social project](#curp).
+<!-- Vist my personal home page to know my other interests and my opinion about life. -->
 
-I believe conscientiousness and patience to be my key personality traits. My exposure to research
-<details>
-  <summary>read more...</summary>
-and proficiency in computers helped hone my skills further. I look forward for an opportunity to work in a highly-industry-driven research environment that is both challenging and provides me ample scope to build my career.
-</details>
+<a name="research"></a>
+## 2. Research at IITM
 
-(Resume-2)
+### <u>Kapitza Resistance And Elastic Phonon ScatteringProperties of Grain Boundaries in Diamond-Silicon</u>
 
-Conscientiousness and patience are my key personality traits. I have strong inclination towards Science &amp; Technology and interested to work on projects relevant to Machine Learning, Deep Learning &amp; AI technologies. Opportunity that challenges my skill sets and knowledge would be highly appreciated.
+<p align="center"><img src="images/19-c.png"></p>
+I studied the thermal heat transport characteristics of various Grain Boundary(GB) interfaces in silicon bicrystal models using computer simulations.
+GBs are very thin amorphous layer between two crystals with relative misorientation to each other as shown above.
+When the thermal energy(heat) flows from crystal A(on the left) to crystal B(on the right) there is some energy loss due to thermal energy carrier scattering at the interface.
+This results in a temperature drop or discontinuity to the flow of thermal heat current.
+Different interfaces shows different temperature drop to the same magnitude of thermal heat current, and therefore thermal boundary resistance is an intrinsic property of the interface.
+I studied various symmetric tilt grain boundaries in Silicon trying to figure out on what factors these thermal boundary resistance depends.
 
-(Resume-3)
+<br><br>
+To get deeper insights into the thermal boundary resistance, the later part of the research focuses on phonon-wave-packet(could be considered as a particle of heat) scattering at the interface.
+Since the mechanism of Sound and Heat propagation in a crystalline solid is similar, we investigated the wave-packet that propagates across the interface. The animation below shows a wave-packet passing through an one-dimensional model of an interface where some part of a wave is reflected and most of them are transmitted at the interface.
+<p align="center"><img src="images/wave_0.2a.gif"></p>
 
-Conscientiousness and patience are my key personality traits. Being a dedicated educator I have always demonstrated a strong skill to learn new topics and effectively communicate in groups. My Research education has given me a profound confidence to work on any project effectively.
 
-1. **EDUCATION**
 
-| **PROGRAMME** | **DISCIPLINE** | **INSTITUTION** | **CPGA** | **YEAR** |
-| --- | --- | --- | --- | --- |
-| Master of Science(by research) | [Interdisciplinary](https://drive.google.com/file/d/1ad3x6ZwUfE585SEclRLeF03uAYmCjWyp/view?usp=sharing) (ME+PY) | Indian Institute of Technology Madras, Chennai | [7.80](https://drive.google.com/file/d/1iRenoSYsExPDLF1v4lGu0hYrYPUzJpJl/view?usp=sharing) | 2020 |
-| Bachelors of Engg. | Mechanical Engineering | Thanthai Periyar Government Institute of Technology, Vellore | [7.32](https://drive.google.com/file/d/1eaBN5vWygtq_7N4FZwCS6dTU7CMk3nBX/view?usp=sharing) | 2016 |
-| Secondary Education(TN State board) | XII(Computer Science) | Velammal Mat. Hr. Secondary School, Surapet | [92.9 %](https://drive.google.com/file/d/1Y8WW8f6I_FpH-g-ckqhxQ4bD4EbCedge/view?usp=sharing) | 2012 |
-| High School(Matriculation) | Class X | Velammal Mat. Hr. Secondary School, Surapet | [91.8 %](https://drive.google.com/file/d/1p2TNwvPlgGtV0gmVwQy0weoaXJkZV9gA/view?usp=sharing) | 2010 |
+**Potential Applications**:
+* In the design of functional materials like microelectronic semiconductor devices
+* Design of new structural materials for high thermal applications such as jet engine isolations, etc.
 
-1. [**COURSE WORK**](https://drive.google.com/file/d/1iRenoSYsExPDLF1v4lGu0hYrYPUzJpJl/view?usp=sharing)
+**Simulations Techniques**:
+* Python and Matlab for modeling the GB-bicrystal samples.
+* Molecular Dynamics(MD) techniques to perform heat flow simulations using [LAMMPS](https://lammps.sandia.gov/doc/Intro_overview.html) software package
+* [OVITO](https://www.ovito.org/) software package to visualise the GB models
+* OVITO-python interpreter, and python for post-processing the simulations results
 
-1. Application of Molecular Dynamics (9/10)
-2. Finite Element Analysis (8/10)
-3. Foundations of Computational Materials Modelling (8/10)
-4. Structure &amp; Properties of Grain Boundaries and Interfaces (7/10)
-5. Advanced Mechanics of Solids (7/10)
-6. Innovative Entrepreneur-I (9/10)
-7. Urban Resilience (9/10)
-8. Winter School on Social Entrepreneurship (8/10)
+<u>NOTE:</U> To read more visit my *Research Profile:* [ilailabs.github.io/research-elankovanmg](https://ilailabs.github.io/research-elankovanmg/)
 
-1. **ONLINE COURSES**
 
-(Resume-2)
+<a name="work"></a>
+## 3. Work Experiances
 
-1. Apr 2020 - [Introduction to Flutter Development using Dart](https://drive.google.com/file/d/15hIw_d529Vv3qtTgHOkTF9N-2fqDy_Rq/view?usp=sharing) | AppBrewery ([associated account of the user who did the course](https://drive.google.com/file/d/1mLPBTFS_3pffyEEf_w8tz-fjIZUqx25K/view?usp=sharing))
-2. Apr 2020 - [AWS Cloud Practitioner Essentials](https://drive.google.com/file/d/1tKv_DNOkCht43wJxD3zWGPMOf5qxZuh5/view?usp=sharing) | AWS training
-3. Dec 2019 - [Introduction to Statistics With Matlab](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=0a971607-752c-4a8d-9fe7-92bb788f03d6) | Matlab Academy
-4. Nov 2019 - [Introduction to Linear Algebra With Matlab](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=534e9419-8eb6-49f5-840e-a7f0dbcf25ee) | Matlab Academy
-5. Sep 2019 - [Machine Learning With Matlab](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1674b012-f16d-4352-ad96-1d9c2bd8be09) | Matlab Academy
-6. Jun 2019 - [Deep Learning With Matlab](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2e4dc323-6a87-4bdc-8736-56b2811f875b) | Matlab Academy
-7. Apr 2019 - [Joy of Computing Using Python](https://nptel.ac.in/noc/Ecertificate/?q=noc19-cs09/NPTEL19CS09S61221598191073298.jpg) | NPTEL-IIT Ropar
+**Educator(Engineering Mathematics)**
 
-1. **WORK EXPERIENCES / WORK HISTORY**
+*Type: Freelance*(Week-ends)
 
-1. [**Freelance Educator(Engineering Mathematics)**](https://drive.google.com/file/d/10vtNurEp2y4akASrt_fsGNm6PGvnUaTv/view?usp=sharing) **March 2018 - Current**
+I have classroom teaching experience and online(via zoom) teaching experiance in the following topics. My interest in maths and opportunity to devlop my softskill has motivated to be a freelance educator.
+* Determinants & Matrices
+* Calculus & Differential Equations
+* Vector Calculus
+* Functions of Complex Variables
+* Transforms
+* Numerical Methods
+* Applied Probability;
+* Material Science
 
-- 300+ Hours of classroom teaching experience in the following topics: Determinants &amp; Matrices; Calculus &amp; Differential Equations; Vector Calculus; Functions of Complex Variables; Transforms; Numerical Methods; Applied Probability; Material Science
+**Project Lead, (PrepLeaf Preparations Pvt. Ltd)**
 
-- Experience in handling Live &amp; Self-paced online courses
+*Type: Contract*
 
-1. [**Project Lead(PrepLeaf Preparations Pvt. Ltd)**](https://drive.google.com/file/d/1hk238ldTjenNlXCioVCPkLnqnAi0V5rB/view?usp=sharing) **June 2020 - Current**
+Earlier I started publishing the questions for my students to practise for their exams, later due to huge demand and market size([1,00,000+ users) I took this project seriously and collaborated the exam preparations company **PrepLeaf**
+Myself and my friend has started building a faculty team who can develop good quality educational resources for the aspirants of TNEB-AE; With prepleaf as our technology partner I am leading the team of project onlinetangedco
 
-- **Project OnlineTangedco:** Conceived a project idea and collaborated with PrepLeaf Preparations Pvt. Ltd as our technology partner
-- **Roles Responsibilities:** Planning the project; Assigning the tasks to teammates; Monitoring the progress. Also responsible for strategic marketing and sales of the product
-- Scheduling of online mock exams, organizing and assigning the works to faculties to prepare study materials
+Vist this [page](https://onlinetangedco.prepleaf.com/) if you are more interested to know about this project
 
-1. [**Project Associate(Chennai Urban Resilience Program) May 2019 - July 2019**](https://drive.google.com/file/d/1tjdEv1YoNSDtfhyTopPDOIhXfvqw08I2/view?usp=sharing)
+* Roles Responsibilities: Planning the project; Assigning the tasks to teammates; Monitoring the progress.
+* Also responsible for strategic marketing and sales of the product
+* Scheduling of online mock exams, organizing and assigning the works to faculties to prepare study materials
+* Team size: 3-core + 2-freelancers
 
-- Social Project: Closely collaborated with an international student team to address solutions related to Chennai&#39;s solid waste management.
-- This project was organized and sponsored by University of Cambridge, IIT Madras, Yale NUS College, University of British Columbia
+**Project Associate, (Chennai Urban Resilience Program)**
 
-**(4)Teaching Assistant(IITM)**
+*Type: summer intern (May 2019)*
 
-- [ME1480 Engineering Drawing,](https://drive.google.com/file/d/198HLENV88a-BMXnuQc7YCT1FiHV8KLSk/view?usp=sharing)
-- [ME5201 Computational Methods in Engineering](https://drive.google.com/file/d/1RnEGXmHzBgqNkZEDK73RElSpK_ZW0PQd/view?usp=sharing)
+This project is one of the best experiances I had in my IITM college life. The project is so exciting just because we were working on the real gournds interviewing people and collabaring with *chennai's resilence team* closly to give some practical solutions to Chennai's sold waste management.
 
-1. **RESEARCH PROJECT**
+* There were six teams from international universites(University of Cambridge, IIT Madras, Yale NUS College, University of British Columbia) and we worked on the project *Urban Hortriculture*
 
-(Resume-1)
+[Project report]()
 
-**Atomistic Modelling of Grain Boundary Interfaces using Bicrystal Geometry**
+[Project presentation]()
 
-- We computed the grain boundary energy curve of Si GBs with \&lt; 100 \&gt; and \&lt; 110 \&gt; misorientation axis. Further, these models can be used to study the thermal heat transport properties.
+**PROJECTS**
 
-**Thermal Conductivity Calculation using Non-equilibrium Molecular Dynamics Simulation**
+**UG Project: Investigation and Design of customized Airfoil for Low-Speed Vertical Axis Wind Turbine**
+* We explored the possibility of a new design in the airfoil cross-section of VAWT. The new design is proposed based on
+the lift to drag coefficient and the model is designed in CATIA V5 Sketcher
 
-- Thermal heat flux is induced in the bicrystal system using non-equilibrium molecular dynamics simulations to compute the thermal resistance of the grain boundary interface.
+**UG Mini Project: Kinetic Energy Recovery System Adopted Bicycles**
+* A new brake mechanism that can store the kinetic energy of bicycles during the application of sudden breaks and a
+recovery system to release the stored energy is designed using open coil spring and actuator. We tried to fabricate the
+working prototype of this model.
 
-**Elastic Phonon wave-packet scattering at 2D Grain Boundaries using Molecular Dynamics**
+**Conceptual Design of Electromagnetic Damper for Motorcycle Suspension [Published]**
+* The new idea of using the multiple solenoidal-magnetic coils for the rear suspension of motorcycles is proposed. This
+model uses an active feedback loop to control the damping forces through Electronic Control Unit making the suspension
+active.
 
-- To get deeper insights into the mechanism of heat transport at the interfaces, the role of phonon wave-packet scattering is also studied in 2D grain boundaries modeled using LJ potential.
+**Flutter Application: Android and iOS Mobile Application**
+* My Quiz application helps the aspirants preparing for competitive exam by attempting quizzes
+* Functionalities Implemented: (1)User Login & New user registration; (2) Display the contents of Notes & Quizzes
+from google firestore; (3) Evaluates the quiz score with the marking schemes; (4) Makes the solution available for user
+attempted the test; (5) User profile details
+* Type: Hobby Project; Duration: 3 Weeks; Built Using: Android Studio with Dart Programming language;
 
-(Resume-2)
+**Numerical solution for plane problems using Finite Element approach [ME6800]**
+* Simple truss and beam problems have been solved using Matlab;
 
-Studied thermal heat transport properties of various grain boundary interfaces in Silicon bicrystal samples using Molecular Dynamics computer simulations.
+**Uniaxial Tensile Test of Single Walled Carbon Nanotube: A MD approach[AM6512]**
+* Single walled carbon nanotube structure has been generated and uniaxial tensile testing has been performed using
 
-(Resume-3)
+**LAMMPSMD Simulation of Dislocation Dipole[ME7244]**
+* The dislocation dipole structure has been modeled using Matlab and the stable dislocation diploe structure and energy
+has been calculated using LAMMPS
 
-Studied thermal heat transport properties of various grain boundary microstructure in Silicon bicrystal samples using Molecular Dynamics computer simulations.
+**Urban Horticulture Project [ID5120]**
+* Household vegetable gardening is proposed to be the best solution to deal with degradable solid waste management
 
-1. **SKILLS / COMPUTER PROFICIENCY**
+<a name="acad"></a>
+## 4. Academics
 
-**Programming Languages:**
+**EDUCATION**
 
-Python(intermediate)
+| Institute | Programme | Year | |
+|:---|:---|:---:|:--:|
+| Indian Institue of Technology Madras, Chennai   | MS by Research   | 2020   | 7.8 |
+| Thanthai Periyar Govt. Institute of Technology, Vellore | B.E in Mechanical | 2016 | 7.3 |
+| Velammal Mat. Hr. Sec. School, Chennai | TN-Higher Secondary | 2012 | 92.9 |
+| Velammal Mat. Hr. Sec. School, Chennai | TN-Matriculation | 2010 | 91.8 |
 
-Dart
+**ACCOMPLISHMENTS**
 
-**Linux OS:**
+* Selected in International Winter School on Social Entrepreneurship organized by the Center for Social Innovation & Entrepreneurship at IIT Madras
 
-Shell scripting in linux
+* Winner: Paper presentation in National Technical Symposium-2014, CIPET, Chennai
+* Best Paper presentation award CRANIKZ Symposium 2015, TPGIT, Vellore
+* Winner: CAD Modelling in National Technical Symposium-2014, CIPET, Chennai
+* Winner: CAD Modelling in National Technical Symposium-2015, Velammal Engg. College
+* Winner: CAD Modelling in National Technical Symposium-2015, Adhiparasakthi College of Engg.
+* Secured 93.4 percentile in GATE 2017 with score 522
 
-**Scientific Computing:**
+**PUBLICATIONS**
 
-MATLAB(proficient)
+<!-- | Year | Journal | Title |
+|:---:|:---:|:---:|
+| 2014 | Journal of Physics | Conceptual Design of ... |
+| 2020  | Journal of ...  |  ... | -->
 
-SageMath
+* Published a paper titled "Conceptual design of Electromagnetic Damper for motorcycle suspension" IJERT, Vol.4, Issue
+08
 
-Mathematica
+<a name="moocs"></a>
+## 5. Online Courses
 
-**CAD Modelling:**
+<!-- **Coursera**
+* Int to matlab with fp
+* 10 things
+* Krish na garkipathy
 
-CATIA V5(proficient)
+**Nano-Hub**
+* atoms-to-materials
+* ht-at-nanoscales
 
-SolidWorks, NX-CAD
+**matlab academy**
+* ML
+* DL
+* SM
+* LA
 
-**Simulation Tools:**
+**others** -->
 
-Molecular Dynamics using LAMMPS
+* Apr 2020 - Introduction to Flutter Development using Dart | AppBrewery
+* Apr 2020 - AWS Cloud Practitioner Essentials | AWS training
+* Dec 2019 - Introduction to Statistics With Matlab | Matlab Academy
+* Nov 2019 - Introduction to Linear Algebra With Matlab | Matlab Academy
+* Sep 2019 - Machine Learning With Matlab | Matlab Academy
+* Jun 2019 - Deep Learning With Matlab | Matlab Academy
+* Apr 2019 - Joy of Computing Using Python | NPTEL-IIT Ropar
 
-NX-Nastran
+To know the list of all courses vist this [page](docs/MY_COURSES/allcourses.html)
 
-Ansys
+[comments]:(#training)
+<a name="training"></a>
+## 6. Training & Certification
 
-**Documentation:**
+**Master Diploma In Automotive Design**
 
-Markdown(proficient)
 
-LaTex(intermediate)
+<a name="computer"></a>
+## 7. Computer Proficiency & Skills
 
-1. **TRAINING &amp; CERTIFICATIONS**
+* Programming Languages: Python(intermediate), Dart
+* Scientific Computing: MATLAB(proficient), SageMath, Mathematica
+* CAD Modelling: CATIA V5(proficient), SolidWorks, NX-CAD
+* Simulation Tools: LAMMPS, NX-Nastran, Ansys
+* Documentation:: Markdown(proficient), LaTex(intermediate)
+* Linux OS: Shell scripting in linux
+<!--
+* 3+ years of linux
+* matlab
+* intermediate skills in python
+* Exposure to dart prog lang - begineer skills
+* Flutter dev for mobile and desktop applications
+* Computer simulations in virutal could environment like aws
+* Github
+* lammps
 
-- [Master diploma in automotive design](https://drive.google.com/file/d/1kspvXkDuXKa-Qrk0t3N7LrebC_PwDFDq/view?usp=sharing)
+* documentation skills -->
 
-1. **ACADEMIC ACCOMPLISHMENTS**
 
-- Selected in [International Winter School on Social Entrepreneurship organized by the Center for Social Innovation &amp; Entrepreneurship](https://drive.google.com/file/d/1utzYm472GWbeeLlgqwVIJtfZ3xPV-Vzq/view?usp=sharing) at IIT Madras
-- [Published a paper](https://drive.google.com/file/d/1owQOpZ975tkKtNMMB46DXA_1BJLEILuq/view?usp=sharing) titled &quot;_Conceptual design of Electromagnetic Damper for motorcycle suspension_&quot; IJERT, Vol.4, Issue 08
-- [Winner](https://drive.google.com/file/d/1dAbgtiUOazsuHR3DcpmnU8pOy9cbpvLI/view?usp=sharing): Paper presentation in National Technical Symposium-2014, CIPET, Chennai
-- [Best Paper presentation award](https://drive.google.com/file/d/137QzgB-NQDrZC-xu-qiMgsnXa3wQbflz/view?usp=sharing) CRANIKZ Symposium 2015, TPGIT, Vellore
-- [Winner](https://drive.google.com/file/d/187Ao-YrUj-8KlrUUtz-glLFA-VIuMcS0/view?usp=sharing): CAD Modelling in National Technical Symposium-2014, CIPET, Chennai
-- [Winner](https://drive.google.com/file/d/13WmOPqC3NN169XgMfg6vrzIeEg6pdKYY/view?usp=sharing): CAD Modelling in National Technical Symposium-2015, Velammal Engg. College
-- [Winner](https://drive.google.com/file/d/19XqWvl_IkDFIAvnnW7AEJUN2yPB1SVYI/view?usp=sharing): CAD Modelling in National Technical Symposium-2015, Adhiparasakthi College of Engg.
+<a name="hobbies"></a>
+## 8. Lesiure Activites & Hobbies
 
-1. **PUBLICATIONS**
+* Playing guitar
+* Indian classical music
 
-1. Elankovan M G, Dr A. Sai Ramesh, &#39;[Conceptual design of Electromagnetic Damper for motorcycle suspension](https://www.ijert.org/research/conceptual-design-of-electromagnetic-damper-for-motorcycle-suspension-system-IJERTV4IS080580.pdf)&#39;,IJERT, Vol.4, Issue 08.
+<!-- * Instruments interested in : Piano and Violin -->
+<!--
+* Gardening
+* Forie languate
+* Cooking
+* Teaching -->
 
-1. **PROJECTS**
+**Hobbies for fitness**
+* squash
+* swimming
+* cycling
 
-1. **Course projects**
+<a name="faqs"></a>
+## 9. Interview FAQs & Job Expectactions
 
-[**Numerical solution for plane problems using Finite Element approach [ME6800]**](https://drive.google.com/file/d/1qlO6gikFvM8olIuZs1krBnOrpLRwNnlU/view?usp=sharing)
+* **Why do you think your the best fit to our organisation?**
 
-[**Uniaxial Tensile Test of Single Walled Carbon Nanotube: A MD approach[AM6512]**](https://drive.google.com/file/d/1HBfK0Vw_eVYvM5hteecS76lf7O8pvUOq/view?usp=sharing)
+<!-- <br>*The combination of skill-sets I posses*.
+I belive Mechanical engineerings with excellent coding skills can unlock the doors of possiblities.
+I have also demonstrated good interpersonal skills and leadership qualities. -->
 
-[**MD Simulation of Dislocation Dipole[ME7244]**](https://drive.google.com/file/d/16dBDbsLnraYNCkEd-oupO8mx89vTZTaV/view?usp=sharing)
+* **Why do you prefer a job related to data science/analytics/ML being a mechanical engineer?**
 
-[**Urban Horticulture Project [ID5120]**](https://drive.google.com/file/d/1JGrOQwY2iX0jIlT7IARku8VyugIvNgbP/view?usp=sharing)
+<!-- <br>*I belive in science and technology*, Few years ago I met a senior software developer from *capgemini* with 25+years of experiance (from a non-computer science background like me) during a travel. His insights and advices completly changed my prespectives.`lean towards the future or you don't have the future at all` -->
 
-1. **Undergraduate projects:**
+* **Whats your motivation to learn programming?**
 
-[**Investigation and Design of customized Airfoil for Low-Speed Vertical Axis Wind Turbine**](https://drive.google.com/file/d/1qnyJI7elBbaWzXqo5jAcWL0ETHLJdSd_/view?usp=sharing)
+<!-- <br>*Research*. Compulsion to get the tasks done systematically. I usually use *Matlab* to get my things done like ploting and generating a crystal structure, though learning to programme a computer was not my primary objective basically I'm interested in how computers work.
+Later at a point in my research I stumpled when my *python* script just took few minutes to complete the same task as it would take my matlab script 10+ hours. Since then I have started taking care of logic implementations and writing clean script. Bottom line *to solve problems and get things done* is the reason why I programme. -->
 
-We explored the possibility of new design in the airfoil cross section of VAWT. The new design is proposed based on the lift to drag coefficient and the model is desiged in CATIA V5 Sketcher
+* **What would be your criteria to choose a job-offer in case you get multiple offers?**
+<!--
++Job Location(willing to relocate)
+* Whats your primary job expectations?
+platform-gives-opportuinity-genunly. changes-that-helps-my-professional-growth.
+* How do you see yourself in the next five years?
 
-[**Kinetic Energy Recovery System Adopted Bicycles[UG Mini Project]**](https://drive.google.com/file/d/1wX4jdMVWnylWz3MDtxqlHQnJEPqL1U0i/view?usp=sharing)
+* How good are you working with teams?
+* What is that one thing that drastically improved your productivity recently?
+* How to you deal with distraction at work/productive hours?
+* What helps you stay motivated when you face challenges or when things didn't work?
+* Tell us about your first job interview experiances?
+* Whats your opinion about entreprenurship? Why do you think leadership skills are extremly important?
+* What are your strengths? What are the things that your proud of yourself?
+* What are your weeknesses? Have you taken any steps to imporve them?
+- Trying to do multiple things at same time didn't work for me. Focus one thing at a time. Multitaking
+* What are the few qualities that you admire in yourself?
+* What qualities you admire in a leader?
+* Whats your motivation to teach Engineering Mathematics?
+* I have something else to aks you? -->
 
-A new break mechanism that can store the kinetic energy of bicycle during the
 
-application of sudden breaks, and a recovery system to release the stored energy is
+<!-- * Would you be interested in travelling a lot for business meetings and conferences? -->
 
-designed using open coil spring and actuator. We tried to fabricate the working
+<a name="gallery"></a>
+## 10. Photo Gallery
 
-prototype of this model.
+## Personal Details
 
-[**Conceptual Design of Electromagnetic Damper for Motorcycle Suspension [Published]**](https://www.ijert.org/research/conceptual-design-of-electromagnetic-damper-for-motorcycle-suspension-system-IJERTV4IS080580.pdf)
+Date Of Birth: 05/11/1994
+Residence: Chennai, Tamil Nadu
 
-New idea of using the multiple solenoidal-magnetic coil for rear suspension of
 
-motorcycles is proposed. This model uses active feedback loop to control the damping
+## Referances:
 
-forces through Electronic Control Unit making the suspension active.
+<!-- 1. sir1
+2. sir2
+3. sir3-sai
+4. sir4-tamilaya
+5. sir5-sekar -->
 
-1. **Flutter applications**
+----------------------------
+**Disclaimer**:
+Contents in this page are genuine and accurate to the best of my knowledge. And intended only for recruitment purposes. Please do not discolse or share any personal informations without my consent.
 
-[Clone the project](https://github.com/ilailabs/quizz_app.git)from this link
+<br>Written by: Elankovan M. G.(candidate) in [markdown](https://github.com/ilailabs/profile-elankovanmg/blob/master/index.md) with atom text editor
+<br>Last Updated: 19-June-20
 
-[**Flutter Application:**](https://github.com/ilailabs/my_quizz_app)
+<a name="email"></a>
 
-&quot;Quiz TANGEDCO-AE&quot; application helps the aspirants preparing for competitive exam by attempting quizzes
+<br><img src="icons/gmail.png" width="20"> **elankovanmg@gmail.com**
+<br><img src="icons/whatsapp.png" width="20"> +91 99402 75\*\*\*
+<br><img src="icons/twitter.png" width="20">[#elangovan_ilai](https://twitter.com/elangovan_ilai)
+<br><img src="icons/linkedin.png" width="20">[linkedin.com/in/elankovanmg](https://www.linkedin.com/in/elankovanmg/)
 
-**Functionalities Implemented:**
 
-(1)User Login &amp; New user registration;
-
-(2) Display the contents of Notes &amp; Quizzes from google firestore
-
-(3) Evaluates the quiz score with the marking schemes (4) Makes the solution available for user attempted the test
-
-(5) User profile details
-
-**Type:** Hobby Project **;**
-
-**Duration:** 3 Weeks;
-
-**No of Users** : Less than 100;
-
-**Built Using:** Android Studio with Dart Programming language; deployable to android &amp; iOS mobile devices
+  Page Views: <img src="https://hitwebcounter.com/counter/counter.php?page=7441543&style=0007&nbdigits=4&type=page&initCount=0" height="15"/>
+  Unique Viewers: <img src="https://hitwebcounter.com/counter/counter.php?page=7441544&style=0007&nbdigits=4&type=ip&initCount=0" height="15"/> Since June 2020
