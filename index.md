@@ -2,6 +2,16 @@
 
 1. **APPLICANT DETAILS**
 
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 Name: Elankovan M. G.
 
 Roll No: ME17S300
@@ -14,7 +24,7 @@ Linkedin Profile: [linkedin.com/in/elankovanmg/](https://linkedin.com/in/elankov
 
 Scholars Profile: scholars.iitm.ac.in/profile/ME17S300
 
-[courses](docs/course_grades/courses.html)
+[courses](docs/MY_COURSES/allcourses.html)
 
 1. **ABOUT ME**
 
