@@ -4,8 +4,8 @@
 
 <details>
   <summary>Click to expand!</summary>
-  
-  ## Heading
+
+   Heading
   1. A numbered
   2. list
      * With some
@@ -30,7 +30,11 @@ Scholars Profile: scholars.iitm.ac.in/profile/ME17S300
 
 (Resume-1)
 
-I believe conscientiousness and patience to be my key personality traits. My exposure to research and proficiency in computers helped hone my skills further. I look forward for an opportunity to work in a highly-industry-driven research environment that is both challenging and provides me ample scope to build my career.
+I believe conscientiousness and patience to be my key personality traits. My exposure to research
+<details>
+  <summary>read more...</summary>
+and proficiency in computers helped hone my skills further. I look forward for an opportunity to work in a highly-industry-driven research environment that is both challenging and provides me ample scope to build my career.
+</details>
 
 (Resume-2)
 
