@@ -12,22 +12,13 @@ Remember to use `HOME` button and `Ctrl+F` to navigate and search within this pa
 
 Say, if my IITM Placement registration number is `55/ME/20/028` please enter `028` as a password.
 
-<br>[I Resume- Data Sciences and Machine Learning Profile](docs/F2.pdf "Download as PDF")
-<br>[II Resume-Research Engineer Mechanical R&D](docs/F1.pdf "Download as PDF")
-
-<!--
-<br>[I Recomendation Letter- Dr. Narasimhan Swaminathan](docs/letter1.pdf "From My Research Advisor")
-<br>[II Recomendation Letter - Dr. C. V. Krishnamurthy](docs/letter2.pdf "From My Research Advisor")
-<br>[III Recomendation Letter - Dr. A. Sai Ramesh](docs/letter3.pdf "From My Past Project Mentor")
-<br>[IV Recomendation Letter - Director IM AN IAS ACADEMY](docs/letter4.pdf "From My Past Recruiter")
-<br>[V LinkedIn Recomendation - Dr. Murali Chandrashekaran](link "From My Past Project Mentor")
-<br>[VI Recomendation Letter - Dr. T. Sekar](docs/letter5.pdf "From My Past Project Mentor") -->
-
+<br>[**I Resume- Data Sciences and Machine Learning Profile**](docs/F2.pdf "Download as PDF")
+<br>[**II Resume-Research Engineer Mechanical R&D**](docs/F1.pdf "Download as PDF")
 
 <a name="myself"></a>
 ## 1. About Me
 
-I joined Computational Materials Modelling(CMM) Group in 2017 lead by [Prof. Narasimhan Swaminathan](https://home.iitm.ac.in/n.swaminathan/) as an interdisciplinary research scholar in the Department of Mechanical Engineering(Design) and in the Department of Physics under the research supervision of [Prof. C. V. Krishnamurthy.](http://iitm.irins.org/profile/61936)
+I joined Computational Materials Modelling(CMM) Group in 2017 lead by [Prof. Narasimhan Swaminathan](https://home.iitm.ac.in/n.swaminathan/) as an interdisciplinary research scholar in the **Department of Mechanical Engineering(Design)** and in the **Department of Physics** under the research supervision of [Prof. C. V. Krishnamurthy.](http://iitm.irins.org/profile/61936)
 My Inclination towards Science and Mathematics and the love that I had for my family was my motivation to join IITM to pursue research education.
 My first real encounter with science was during my middle school days when I sucessfully electroplated a stainless-steel coin into a copper coated one with a mobile phone charger and unused copper wires (stole some copper sulphate salt from my chemistry lab)
 I also couldn't believe in a few interesting things my physics teacher taught me, until I convice myself doing small science experiments.
@@ -39,7 +30,7 @@ Internet and flying machines were my favourite among them.
 
 Philosophy and Psychology is something that I appreciate and understand apart from my discipline.
 I was most influenced by the teachings of Dr. Jordan Peterson and his views on life and also inspired by the writings of american philosoper Dr. Wyane Dyer.
-I recently developed some interest in Entrepreneurship and Behavioural science, influenced by the talks of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) & some of the professors I met in the past few years, [Prof LSG](https://doms.iitm.ac.in/index.php/ganesh-l-s) (DoMs-IITM) and [Prof Murali](https://www.ubc.ca/about/one-on-one/leadership/murali-chandrashekaran.html) from UBC who mentored me for a [social project](#curp).
+I recently developed some interest in Entrepreneurship and Behavioural science, influenced by the talks of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) & some of the professors I met in the past few years, [Prof LSG](https://doms.iitm.ac.in/index.php/ganesh-l-s) (DoMs-IITM) and [Prof Murali](https://www.ubc.ca/about/one-on-one/leadership/murali-chandrashekaran.html) from UBC who mentored me for a [social project](https://drive.google.com/file/d/1JGrOQwY2iX0jIlT7IARku8VyugIvNgbP/view?usp=sharing).
 <!-- Vist my personal home page to know my other interests and my opinion about life. -->
 
 <a name="research"></a>
@@ -114,44 +105,43 @@ This project is one of the best experiances I had in my IITM college life. The p
 
 * There were six teams from international universites(University of Cambridge, IIT Madras, Yale NUS College, University of British Columbia) and we worked on the project *Urban Hortriculture*
 
-[Project report]()
+[Project report](https://drive.google.com/file/d/1JGrOQwY2iX0jIlT7IARku8VyugIvNgbP/view?usp=sharing)
 
-[Project presentation]()
 
 **PROJECTS**
 
-**UG Project: Investigation and Design of customized Airfoil for Low-Speed Vertical Axis Wind Turbine**
+[**UG Project: Investigation and Design of customized Airfoil for Low-Speed Vertical Axis Wind Turbine**](https://drive.google.com/file/d/1qnyJI7elBbaWzXqo5jAcWL0ETHLJdSd_/view?usp=sharing)
 * We explored the possibility of a new design in the airfoil cross-section of VAWT. The new design is proposed based on
 the lift to drag coefficient and the model is designed in CATIA V5 Sketcher
 
-**UG Mini Project: Kinetic Energy Recovery System Adopted Bicycles**
+[**UG Mini Project: Kinetic Energy Recovery System Adopted Bicycles**](https://drive.google.com/file/d/1wX4jdMVWnylWz3MDtxqlHQnJEPqL1U0i/view?usp=sharing)
 * A new brake mechanism that can store the kinetic energy of bicycles during the application of sudden breaks and a
 recovery system to release the stored energy is designed using open coil spring and actuator. We tried to fabricate the
 working prototype of this model.
 
-**Conceptual Design of Electromagnetic Damper for Motorcycle Suspension [Published]**
+[**Conceptual Design of Electromagnetic Damper for Motorcycle Suspension**](https://www.ijert.org/research/conceptual-design-of-electromagnetic-damper-for-motorcycle-suspension-system-IJERTV4IS080580.pdf)
 * The new idea of using the multiple solenoidal-magnetic coils for the rear suspension of motorcycles is proposed. This
 model uses an active feedback loop to control the damping forces through Electronic Control Unit making the suspension
 active.
 
-**Flutter Application: Android and iOS Mobile Application**
+[**Flutter Application: Android and iOS Mobile Application**](https://github.com/ilailabs/quizz_app)
 * My Quiz application helps the aspirants preparing for competitive exam by attempting quizzes
 * Functionalities Implemented: (1)User Login & New user registration; (2) Display the contents of Notes & Quizzes
 from google firestore; (3) Evaluates the quiz score with the marking schemes; (4) Makes the solution available for user
 attempted the test; (5) User profile details
 * Type: Hobby Project; Duration: 3 Weeks; Built Using: Android Studio with Dart Programming language;
 
-**Numerical solution for plane problems using Finite Element approach [ME6800]**
+**Numerical solution for plane problems using Finite Element approach [ME6800]** [report](https://drive.google.com/file/d/1qlO6gikFvM8olIuZs1krBnOrpLRwNnlU/view?usp=sharing)
 * Simple truss and beam problems have been solved using Matlab;
 
-**Uniaxial Tensile Test of Single Walled Carbon Nanotube: A MD approach[AM6512]**
+**Uniaxial Tensile Test of Single Walled Carbon Nanotube: A MD approach[AM6512]** [report](https://drive.google.com/file/d/1HBfK0Vw_eVYvM5hteecS76lf7O8pvUOq/view?usp=sharing)
 * Single walled carbon nanotube structure has been generated and uniaxial tensile testing has been performed using
 
-**LAMMPSMD Simulation of Dislocation Dipole[ME7244]**
+**LAMMPSMD Simulation of Dislocation Dipole[ME7244]** [report](https://drive.google.com/file/d/16dBDbsLnraYNCkEd-oupO8mx89vTZTaV/view?usp=sharing)
 * The dislocation dipole structure has been modeled using Matlab and the stable dislocation diploe structure and energy
 has been calculated using LAMMPS
 
-**Urban Horticulture Project [ID5120]**
+**Urban Horticulture Project [ID5120]** [report](https://drive.google.com/file/d/1JGrOQwY2iX0jIlT7IARku8VyugIvNgbP/view?usp=sharing)
 * Household vegetable gardening is proposed to be the best solution to deal with degradable solid waste management
 
 <a name="acad"></a>
@@ -169,7 +159,6 @@ has been calculated using LAMMPS
 **ACCOMPLISHMENTS**
 
 * Selected in International Winter School on Social Entrepreneurship organized by the Center for Social Innovation & Entrepreneurship at IIT Madras
-
 * Winner: Paper presentation in National Technical Symposium-2014, CIPET, Chennai
 * Best Paper presentation award CRANIKZ Symposium 2015, TPGIT, Vellore
 * Winner: CAD Modelling in National Technical Symposium-2014, CIPET, Chennai
@@ -186,6 +175,8 @@ has been calculated using LAMMPS
 
 * Published a paper titled "Conceptual design of Electromagnetic Damper for motorcycle suspension" IJERT, Vol.4, Issue
 08
+* Working on a paper titled "Thermal Resistance and Energies of <100> Symmetric Tilt Grain Boundaries in Silicon"
+* Expected to publish a paper titled "Thermal Resistance and Energies of <100> and <110> Symmetric Tilt Grain Boundaries in Silicon"
 
 <a name="moocs"></a>
 ## 5. Online Courses
@@ -207,32 +198,42 @@ has been calculated using LAMMPS
 
 **others** -->
 
-* Apr 2020 - Introduction to Flutter Development using Dart | AppBrewery
-* Apr 2020 - AWS Cloud Practitioner Essentials | AWS training
-* Dec 2019 - Introduction to Statistics With Matlab | Matlab Academy
-* Nov 2019 - Introduction to Linear Algebra With Matlab | Matlab Academy
-* Sep 2019 - Machine Learning With Matlab | Matlab Academy
-* Jun 2019 - Deep Learning With Matlab | Matlab Academy
-* Apr 2019 - Joy of Computing Using Python | NPTEL-IIT Ropar
+* Apr 2020 - [Introduction to Flutter Development using Dart](https://www.appbrewery.co/p/intro-to-flutter) | AppBrewery [View project](https://github.com/ilailabs/quizz_app.git)
+* Apr 2020 - [AWS Cloud Practitioner Essentials](https://drive.google.com/file/d/1tKv_DNOkCht43wJxD3zWGPMOf5qxZuh5/view?usp=sharing) | AWS training
+* Dec 2019 - [Introduction to Statistics With Matlab](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=0a971607-752c-4a8d-9fe7-92bb788f03d6) | Matlab Academy
+* Nov 2019 - [Introduction to Linear Algebra With Matlab](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=534e9419-8eb6-49f5-840e-a7f0dbcf25ee) | Matlab Academy
+* Sep 2019 - [Machine Learning With Matlab](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1674b012-f16d-4352-ad96-1d9c2bd8be09) | Matlab Academy
+* Jun 2019 - [Deep Learning With Matlab](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2e4dc323-6a87-4bdc-8736-56b2811f875b) | Matlab Academy
+* Apr 2019 - [Joy of Computing Using Python](https://nptel.ac.in/noc/Ecertificate/?q=noc19-cs09/NPTEL19CS09S61221598191073298.jpg) | NPTEL-IIT Ropar
 
-To know the list of all courses vist this [page](docs/MY_COURSES/allcourses.html)
+To know the list of all courses check this [page](docs/MY_COURSES/allcourses.html)
 
 [comments]:(#training)
 <a name="training"></a>
 ## 6. Training & Certification
 
-**Master Diploma In Automotive Design**
+[**Master Diploma In Automotive Design**](https://drive.google.com/file/d/1kspvXkDuXKa-Qrk0t3N7LrebC_PwDFDq/view?usp=sharing)
 
+I completed this 300+ Hours course over a period of 3 years during my undergradutaions; I spend my weekends learning and practising CAD modelling those days.
+
+* CATIA V5(complete software package)
+* Creo 2.0
+* Nx-CAD
+* Nx-CAM
+* Nx-Nastran
+* Ansys
+* Basics of GD&T
+* Autocad 2D
 
 <a name="computer"></a>
 ## 7. Computer Proficiency & Skills
 
-* Programming Languages: Python(intermediate), Dart
-* Scientific Computing: MATLAB(proficient), SageMath, Mathematica
+* Programming Languages: [Python(intermediate)](https://ilailabs.github.io/python/), Dart
+* Scientific Computing: [MATLAB(proficient)](https://ilailabs.github.io/python/matlab/index.md.html), SageMath, Mathematica
 * CAD Modelling: CATIA V5(proficient), SolidWorks, NX-CAD
 * Simulation Tools: LAMMPS, NX-Nastran, Ansys
 * Documentation:: Markdown(proficient), LaTex(intermediate)
-* Linux OS: Shell scripting in linux
+* Linux OS: [Shell scripting in linux](https://ilailabs.github.io/python/bash/index.md.html)
 <!--
 * 3+ years of linux
 * matlab
@@ -245,6 +246,11 @@ To know the list of all courses vist this [page](docs/MY_COURSES/allcourses.html
 
 * documentation skills -->
 
+Please check out the above links if you are interested to know about my style of writing scripts. I started using *Leetcode* and *project euler* to practise problems during my leisure hours for placements.
+
+[My Leetcode profile](https://leetcode.com/elankovanmg/)
+
+[My LeetCode documentation](/home/elankovan/Dropbox/python/leet/INDEX.md.html)
 
 <a name="hobbies"></a>
 ## 8. Lesiure Activites & Hobbies
@@ -267,28 +273,15 @@ To know the list of all courses vist this [page](docs/MY_COURSES/allcourses.html
 <a name="faqs"></a>
 ## 9. Interview FAQs & Job Expectactions
 
-* **Why do you think your the best fit to our organisation?**
-
-<!-- <br>*The combination of skill-sets I posses*.
-I belive Mechanical engineerings with excellent coding skills can unlock the doors of possiblities.
-I have also demonstrated good interpersonal skills and leadership qualities. -->
-
-* **Why do you prefer a job related to data science/analytics/ML being a mechanical engineer?**
-
-<!-- <br>*I belive in science and technology*, Few years ago I met a senior software developer from *capgemini* with 25+years of experiance (from a non-computer science background like me) during a travel. His insights and advices completly changed my prespectives.`lean towards the future or you don't have the future at all` -->
-
-* **Whats your motivation to learn programming?**
-
-<!-- <br>*Research*. Compulsion to get the tasks done systematically. I usually use *Matlab* to get my things done like ploting and generating a crystal structure, though learning to programme a computer was not my primary objective basically I'm interested in how computers work.
-Later at a point in my research I stumpled when my *python* script just took few minutes to complete the same task as it would take my matlab script 10+ hours. Since then I have started taking care of logic implementations and writing clean script. Bottom line *to solve problems and get things done* is the reason why I programme. -->
-
-* **What would be your criteria to choose a job-offer in case you get multiple offers?**
-<!--
-+Job Location(willing to relocate)
+* Tell us about yourself?
+* Why do you think your the best fit to our organisation?
+* Are you interested in job roles relevant to data science/analytics/ML being a mechanical engineer?
+* Whats your motivation to learn programming?
+* Tell us about your reserach experiance at IIT Madras?
+* What would be your criteria to choose a job-offer in case you get multiple offers?
+* Are you willing to relocate?
 * Whats your primary job expectations?
-platform-gives-opportuinity-genunly. changes-that-helps-my-professional-growth.
 * How do you see yourself in the next five years?
-
 * How good are you working with teams?
 * What is that one thing that drastically improved your productivity recently?
 * How to you deal with distraction at work/productive hours?
@@ -297,27 +290,47 @@ platform-gives-opportuinity-genunly. changes-that-helps-my-professional-growth.
 * Whats your opinion about entreprenurship? Why do you think leadership skills are extremly important?
 * What are your strengths? What are the things that your proud of yourself?
 * What are your weeknesses? Have you taken any steps to imporve them?
-- Trying to do multiple things at same time didn't work for me. Focus one thing at a time. Multitaking
 * What are the few qualities that you admire in yourself?
 * What qualities you admire in a leader?
 * Whats your motivation to teach Engineering Mathematics?
-* I have something else to aks you? -->
-
-
-<!-- * Would you be interested in travelling a lot for business meetings and conferences? -->
+* I have something else to aks you?
 
 <a name="gallery"></a>
 ## 10. Photo Gallery
 
+**Motivation talk to freshmen**
+
+![](images/4_mytalk_16s.gif)
+
+<details>
+  <summary>View more...</summary>
+
+**Selected in Urban resilience international workshop**
+![](images/5_ubc_16s.gif)
+
+**Selected in winter school on social entrepreneurship by CSIE, IITM**
+![](images/2_csie_workshop_16.gif)
+
+**Computational Materials Modelling(CMM) group, IITM**
+![](images/1_cmm_11s.gif)
+
+[MY PHOTO GALLERY](images/gallery.md.html)
+
+
+</details>
+
 ## Personal Details
 
-Date Of Birth: 05/11/1994
-Residence: Chennai, Tamil Nadu
+* Date Of Birth: 05/11/1994
+* Age: 25 y.o, Male
+* Permenent Residence: Chennai, Tamil Nadu
+* Father Occupation: Merchant and self-employed
+* Mother: Home maker and Tailor
+* Sibblings: One elder Sister(married) and works in IT
 
+<!-- ## Referances:
 
-## Referances:
-
-<!-- 1. sir1
+1. sir1
 2. sir2
 3. sir3-sai
 4. sir4-tamilaya
@@ -328,7 +341,7 @@ Residence: Chennai, Tamil Nadu
 Contents in this page are genuine and accurate to the best of my knowledge. And intended only for recruitment purposes. Please do not discolse or share any personal informations without my consent.
 
 <br>Written by: Elankovan M. G.(candidate) in [markdown](https://github.com/ilailabs/profile-elankovanmg/blob/master/index.md) with atom text editor
-<br>Last Updated: 19-June-20
+<br>Last Updated: 10-October-2020
 
 <a name="email"></a>
 
@@ -336,6 +349,8 @@ Contents in this page are genuine and accurate to the best of my knowledge. And 
 <br><img src="icons/whatsapp.png" width="20"> +91 99402 75\*\*\*
 <br><img src="icons/twitter.png" width="20">[#elangovan_ilai](https://twitter.com/elangovan_ilai)
 <br><img src="icons/linkedin.png" width="20">[linkedin.com/in/elankovanmg](https://www.linkedin.com/in/elankovanmg/)
+<br><img src="icons/iitm.png" width="20">[scholars.iitm.ac.in/profile/ME17S300](https://scholars.iitm.ac.in/profile/ME17S300)
+
 
 
   Page Views: <img src="https://hitwebcounter.com/counter/counter.php?page=7441543&style=0007&nbdigits=4&type=page&initCount=0" height="15"/>
