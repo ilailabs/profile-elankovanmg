@@ -234,17 +234,13 @@ I completed this 300+ Hours course over a period of 3 years during my undergradu
 * Simulation Tools: LAMMPS, NX-Nastran, Ansys
 * Documentation:: Markdown(proficient), LaTex(intermediate)
 * Linux OS: [Shell scripting in linux](https://ilailabs.github.io/python/bash/index.md.html)
-<!--
-* 3+ years of linux
-* matlab
-* intermediate skills in python
-* Exposure to dart prog lang - begineer skills
-* Flutter dev for mobile and desktop applications
-* Computer simulations in virutal could environment like aws
-* Github
-* lammps
 
-* documentation skills -->
+**Others**
+* I have been using linux for more than 3+ years(much comfortable with ubuntu)
+* Good at writing scripts in matlab. I mostly use matlab for my academic research.
+* Intermediate skills in python. I can write my own python scripts to accomplish any given task with other references.
+* I use markdown do document all academic and personal stuffs.
+* I am familar with cloning a project from githum and developing on it. I am exposed to repos, pull and push request from local machine
 
 Please check out the above links if you are interested to know about my style of writing scripts. I started using *Leetcode* and *project euler* to practise problems during my leisure hours for placements.
 
@@ -287,7 +283,8 @@ Please check out the above links if you are interested to know about my style of
 * How to you deal with distraction at work/productive hours?
 * What helps you stay motivated when you face challenges or when things didn't work?
 * Tell us about your first job interview experiances?
-* Whats your opinion about entreprenurship? Why do you think leadership skills are extremly important?
+* Whats your opinion about entreprenurship?
+* Why do you think leadership skills are extremly important?
 * What are your strengths? What are the things that your proud of yourself?
 * What are your weeknesses? Have you taken any steps to imporve them?
 * What are the few qualities that you admire in yourself?
