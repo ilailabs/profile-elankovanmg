@@ -246,7 +246,7 @@ Please check out the above links if you are interested to know about my style of
 
 [My Leetcode profile](https://leetcode.com/elankovanmg/)
 
-[My LeetCode documentation](/home/elankovan/Dropbox/python/leet/INDEX.md.html)
+[My LeetCode documentation](https://ilailabs.github.io/python/leet/INDEX.md.html)
 
 <a name="hobbies"></a>
 ## 8. Lesiure Activites & Hobbies
