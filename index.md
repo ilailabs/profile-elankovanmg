@@ -299,18 +299,13 @@ Please check out the above links if you are interested to know about my style of
 
 ![](images/4_mytalk_16s.gif)
 
-<details>
-  <summary>View more...</summary>
-
+<details><summary>View more...</summary>
 **Selected in Urban resilience international workshop**<br>
 ![](images/5_ubc_16s.gif)
- 
 **Selected in winter school on social entrepreneurship by CSIE, IITM**<br>
 ![](images/2_csie_workshop_16.gif)
-
 **Computational Materials Modelling(CMM) group, IITM**<br>
 ![](images/1_cmm_11s.gif)
-
 [MY PHOTO GALLERY](images/gallery.md.html)
 </details>
 
