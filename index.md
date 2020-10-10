@@ -295,19 +295,17 @@ Please check out the above links if you are interested to know about my style of
 <a name="gallery"></a>
 ## 10. Photo Gallery
 
-**Motivation talk to freshmen**
-
+**Motivation talk to freshmen**<br>
 ![](images/4_mytalk_16s.gif)
 
-<details><summary>View more...</summary>
 **Selected in Urban resilience international workshop**<br>
 ![](images/5_ubc_16s.gif)
+
 **Selected in winter school on social entrepreneurship by CSIE, IITM**<br>
 ![](images/2_csie_workshop_16.gif)
-**Computational Materials Modelling(CMM) group, IITM**<br>
-![](images/1_cmm_11s.gif)
-[MY PHOTO GALLERY](images/gallery.md.html)
-</details>
+
+[Click to view my photo gallery](images/gallery.md.html)
+
 
 ## Personal Details
 
