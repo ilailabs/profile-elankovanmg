@@ -334,7 +334,7 @@ Contents in this page are genuine and accurate to the best of my knowledge. And 
 <a name="email"></a>
 
 <br><img src="icons/gmail.png" width="20"> **elankovanmg@gmail.com**
-<br><img src="icons/whatsapp.png" width="20"> +91 99402 75\*\*\*
+<br><img src="icons/whatsapp.png" width="20"> [+91 99402 75422](https://api.whatsapp.com/send?phone=+919940275422)
 <br><img src="icons/twitter.png" width="20">[#elangovan_ilai](https://twitter.com/elangovan_ilai)
 <br><img src="icons/linkedin.png" width="20">[linkedin.com/in/elankovanmg](https://www.linkedin.com/in/elankovanmg/)
 <br><img src="icons/iitm.png" width="20">[scholars.iitm.ac.in/profile/ME17S300](https://scholars.iitm.ac.in/profile/ME17S300)
