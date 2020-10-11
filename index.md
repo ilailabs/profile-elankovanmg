@@ -299,9 +299,6 @@ Please check out the above links if you are interested to know about my style of
 
 [View all](images/gallery.md.html)
 
-
-</details>
-
 ## Personal Details
 
 * Date Of Birth: 05/11/1994
