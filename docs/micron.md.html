@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html data-markdown-preview-plus-context="html-export">
+  <head>
+    <meta charset="utf-8" />
+    <title>micron.md</title>
+    <style>@font-face {
+  font-family: 'Roboto';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/roboto-thin-webfont.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/roboto-thinitalic-webfont.woff2') format('woff2');
+  font-weight: 200;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/roboto-light-webfont.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/roboto-lightitalic-webfont.woff2') format('woff2');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/roboto-regular-webfont.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/roboto-italic-webfont.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/roboto-medium-webfont.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/roboto-mediumitalic-webfont.woff2') format('woff2');
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/roboto-bold-webfont.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/roboto-bolditalic-webfont.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/roboto-black-webfont.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/roboto-blackitalic-webfont.woff2') format('woff2');
+  font-weight: 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'roboto_condensedlight';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/robotocondensed-light-webfont.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: condensed;
+}
+@font-face {
+  font-family: 'roboto_condensedlight_italic';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/robotocondensed-lightitalic-webfont.woff2') format('woff2');
+  font-weight: 300;
+  font-style: italic;
+  font-stretch: condensed;
+}
+@font-face {
+  font-family: 'roboto_condenseditalic';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/robotocondensed-italic-webfont.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+  font-stretch: condensed;
+}
+@font-face {
+  font-family: 'roboto_condensedregular';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/robotocondensed-regular-webfont.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: condensed;
+}
+@font-face {
+  font-family: 'roboto_condensedbold';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/robotocondensed-bold-webfont.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: condensed;
+}
+@font-face {
+  font-family: 'roboto_condensedbold_italic';
+  src: url('atom://atom-material-ui/assets/fonts/Roboto/robotocondensed-bolditalic-webfont.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-stretch: condensed;
+}
+.emoji {
+  max-width: 1em !important;
+}
+del {
+  text-decoration: none;
+  position: relative;
+}
+del::after {
+  border-bottom: 1px solid black;
+  content: '';
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+ul.contains-task-list li.task-list-item {
+  position: relative;
+  list-style-type: none;
+}
+ul.contains-task-list li.task-list-item input.task-list-item-checkbox {
+  position: absolute;
+  transform: translateX(-100%);
+  width: 3rem;
+}
+span.critic.comment {
+  position: relative;
+}
+span.critic.comment::before {
+  content: '\1f4ac';
+  position: initial;
+}
+span.critic.comment > span {
+  display: none;
+}
+span.critic.comment:hover > span {
+  display: initial;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  border: 1px solid;
+  border-radius: 5px;
+  max-height: 4em;
+  overflow: auto;
+}
+span.critic.comment:focus > span {
+  display: initial;
+  text-decoration: underline;
+  position: initial;
+  top: auto;
+  left: auto;
+  border: initial;
+  border-radius: initial;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  background-color: transparent;
+}
+
+body {
+  padding: 2em;
+  font-size: 1.2em;
+  color: #383a42;
+  background-color: #fafafa;
+  overflow: auto;
+}
+body > :first-child,
+body > div.update-preview > :first-child {
+  margin-top: 0;
+}
+body > p,
+body > div.update-preview > p {
+  margin-top: 0;
+  margin-bottom: 1.5em;
+}
+body > ul,
+body > div.update-preview > ul,
+body > ol,
+body > div.update-preview > ol {
+  margin-bottom: 1.5em;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.2;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: #000000;
+}
+h1 {
+  font-size: 2.4em;
+  font-weight: 300;
+}
+h2 {
+  font-size: 1.8em;
+  font-weight: 400;
+}
+h3 {
+  font-size: 1.5em;
+  font-weight: 500;
+}
+h4 {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+h5 {
+  font-size: 1.1em;
+  font-weight: 600;
+}
+h6 {
+  font-size: 1em;
+  font-weight: 600;
+}
+strong {
+  color: #000000;
+}
+del {
+  color: #5e616e;
+}
+a,
+a code {
+  color: #526fff;
+}
+img {
+  max-width: 100%;
+}
+blockquote {
+  margin: 1.5em 0;
+  font-size: inherit;
+  color: #5e616e;
+  border-color: #d1d1d2;
+  border-width: 4px;
+}
+hr {
+  margin: 3em 0;
+  border-top: 2px dashed #d1d1d2;
+  background: none;
+}
+table {
+  margin: 1.5em 0;
+}
+th {
+  color: #000000;
+}
+th,
+td {
+  padding: 0.66em 1em;
+  border: 1px solid #d1d1d2;
+}
+code {
+  color: #000000;
+  background-color: #eaeaeb;
+}
+pre.editor-colors {
+  margin: 1.5em 0;
+  padding: 1em;
+  font-size: 0.92em;
+  border-radius: 3px;
+  background-color: #f0f0f0;
+}
+kbd {
+  color: #000000;
+  border: 1px solid #d1d1d2;
+  border-bottom: 2px solid #c1c1c2;
+  background-color: #eaeaeb;
+}
+
+.bracket-matcher .region {
+  border-bottom: 1px dotted lime;
+  position: absolute;
+}
+.line-number.bracket-matcher.bracket-matcher {
+  color: #383a42;
+  background-color: #e5e5e6;
+}
+
+.spell-check-misspelling .region {
+  border-bottom: 2px dotted rgba(255, 51, 51, 0.75);
+}
+.spell-check-corrections {
+  width: 25em !important;
+}
+
+pre.editor-colors {
+  background-color: #fafafa;
+  color: #383a42;
+}
+pre.editor-colors .line.cursor-line {
+  background-color: rgba(56, 58, 66, 0.05);
+}
+pre.editor-colors .invisible {
+  color: #383a42;
+}
+pre.editor-colors .cursor {
+  border-left: 2px solid #526fff;
+}
+pre.editor-colors .selection .region {
+  background-color: #e5e5e6;
+}
+pre.editor-colors .bracket-matcher .region {
+  border-bottom: 1px solid #526fff;
+  box-sizing: border-box;
+}
+pre.editor-colors .invisible-character {
+  color: rgba(56, 58, 66, 0.2);
+}
+pre.editor-colors .indent-guide {
+  color: rgba(56, 58, 66, 0.2);
+}
+pre.editor-colors .wrap-guide {
+  background-color: rgba(56, 58, 66, 0.2);
+}
+pre.editor-colors .find-result .region.region.region,
+pre.editor-colors .current-result .region.region.region {
+  border-radius: 2px;
+  background-color: rgba(82, 111, 255, 0.2);
+  transition: border-color 0.4s;
+}
+pre.editor-colors .find-result .region.region.region {
+  border: 2px solid transparent;
+}
+pre.editor-colors .current-result .region.region.region {
+  border: 2px solid #526fff;
+  transition-duration: .1s;
+}
+pre.editor-colors .gutter .line-number {
+  color: #9d9d9f;
+  -webkit-font-smoothing: antialiased;
+}
+pre.editor-colors .gutter .line-number.cursor-line {
+  color: #383a42;
+  background-color: #e5e5e6;
+}
+pre.editor-colors .gutter .line-number.cursor-line-no-selection {
+  background-color: transparent;
+}
+pre.editor-colors .gutter .line-number .icon-right {
+  color: #383a42;
+}
+pre.editor-colors .gutter:not(.git-diff-icon) .line-number.git-line-removed.git-line-removed::before {
+  bottom: -3px;
+}
+pre.editor-colors .gutter:not(.git-diff-icon) .line-number.git-line-removed::after {
+  content: "";
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 25px;
+  border-bottom: 1px dotted rgba(255, 20, 20, 0.5);
+  pointer-events: none;
+}
+pre.editor-colors .gutter .line-number.folded,
+pre.editor-colors .gutter .line-number:after,
+pre.editor-colors .fold-marker:after {
+  color: #383a42;
+}
+.syntax--comment {
+  color: #a0a1a7;
+  font-style: italic;
+}
+.syntax--comment .syntax--markup.syntax--link {
+  color: #a0a1a7;
+}
+.syntax--entity.syntax--name.syntax--type {
+  color: #c18401;
+}
+.syntax--entity.syntax--other.syntax--inherited-class {
+  color: #50a14f;
+}
+.syntax--keyword {
+  color: #a626a4;
+}
+.syntax--keyword.syntax--control {
+  color: #a626a4;
+}
+.syntax--keyword.syntax--operator {
+  color: #383a42;
+}
+.syntax--keyword.syntax--other.syntax--special-method {
+  color: #4078f2;
+}
+.syntax--keyword.syntax--other.syntax--unit {
+  color: #986801;
+}
+.syntax--storage {
+  color: #a626a4;
+}
+.syntax--storage.syntax--type.syntax--annotation,
+.syntax--storage.syntax--type.syntax--primitive {
+  color: #a626a4;
+}
+.syntax--storage.syntax--modifier.syntax--package,
+.syntax--storage.syntax--modifier.syntax--import {
+  color: #383a42;
+}
+.syntax--constant {
+  color: #986801;
+}
+.syntax--constant.syntax--variable {
+  color: #986801;
+}
+.syntax--constant.syntax--character.syntax--escape {
+  color: #0184bc;
+}
+.syntax--constant.syntax--numeric {
+  color: #986801;
+}
+.syntax--constant.syntax--other.syntax--color {
+  color: #0184bc;
+}
+.syntax--constant.syntax--other.syntax--symbol {
+  color: #0184bc;
+}
+.syntax--variable {
+  color: #e45649;
+}
+.syntax--variable.syntax--interpolation {
+  color: #ca1243;
+}
+.syntax--variable.syntax--parameter {
+  color: #383a42;
+}
+.syntax--string {
+  color: #50a14f;
+}
+.syntax--string > .syntax--source,
+.syntax--string .syntax--embedded {
+  color: #383a42;
+}
+.syntax--string.syntax--regexp {
+  color: #0184bc;
+}
+.syntax--string.syntax--regexp .syntax--source.syntax--ruby.syntax--embedded {
+  color: #c18401;
+}
+.syntax--string.syntax--other.syntax--link {
+  color: #e45649;
+}
+.syntax--punctuation.syntax--definition.syntax--comment {
+  color: #a0a1a7;
+}
+.syntax--punctuation.syntax--definition.syntax--method-parameters,
+.syntax--punctuation.syntax--definition.syntax--function-parameters,
+.syntax--punctuation.syntax--definition.syntax--parameters,
+.syntax--punctuation.syntax--definition.syntax--separator,
+.syntax--punctuation.syntax--definition.syntax--seperator,
+.syntax--punctuation.syntax--definition.syntax--array {
+  color: #383a42;
+}
+.syntax--punctuation.syntax--definition.syntax--heading,
+.syntax--punctuation.syntax--definition.syntax--identity {
+  color: #4078f2;
+}
+.syntax--punctuation.syntax--definition.syntax--bold {
+  color: #c18401;
+  font-weight: bold;
+}
+.syntax--punctuation.syntax--definition.syntax--italic {
+  color: #a626a4;
+  font-style: italic;
+}
+.syntax--punctuation.syntax--section.syntax--embedded {
+  color: #ca1243;
+}
+.syntax--punctuation.syntax--section.syntax--method,
+.syntax--punctuation.syntax--section.syntax--class,
+.syntax--punctuation.syntax--section.syntax--inner-class {
+  color: #383a42;
+}
+.syntax--support.syntax--class {
+  color: #c18401;
+}
+.syntax--support.syntax--type {
+  color: #0184bc;
+}
+.syntax--support.syntax--function {
+  color: #0184bc;
+}
+.syntax--support.syntax--function.syntax--any-method {
+  color: #4078f2;
+}
+.syntax--entity.syntax--name.syntax--function {
+  color: #4078f2;
+}
+.syntax--entity.syntax--name.syntax--class,
+.syntax--entity.syntax--name.syntax--type.syntax--class {
+  color: #c18401;
+}
+.syntax--entity.syntax--name.syntax--section {
+  color: #4078f2;
+}
+.syntax--entity.syntax--name.syntax--tag {
+  color: #e45649;
+}
+.syntax--entity.syntax--other.syntax--attribute-name {
+  color: #986801;
+}
+.syntax--entity.syntax--other.syntax--attribute-name.syntax--id {
+  color: #4078f2;
+}
+.syntax--meta.syntax--class {
+  color: #c18401;
+}
+.syntax--meta.syntax--class.syntax--body {
+  color: #383a42;
+}
+.syntax--meta.syntax--method-call,
+.syntax--meta.syntax--method {
+  color: #383a42;
+}
+.syntax--meta.syntax--definition.syntax--variable {
+  color: #e45649;
+}
+.syntax--meta.syntax--link {
+  color: #986801;
+}
+.syntax--meta.syntax--require {
+  color: #4078f2;
+}
+.syntax--meta.syntax--selector {
+  color: #a626a4;
+}
+.syntax--meta.syntax--separator {
+  color: #383a42;
+}
+.syntax--meta.syntax--tag {
+  color: #383a42;
+}
+.syntax--underline {
+  text-decoration: underline;
+}
+.syntax--none {
+  color: #383a42;
+}
+.syntax--invalid.syntax--deprecated {
+  color: #000000 !important;
+  background-color: #f2a60d !important;
+}
+.syntax--invalid.syntax--illegal {
+  color: white !important;
+  background-color: #ff1414 !important;
+}
+.syntax--markup.syntax--bold {
+  color: #986801;
+  font-weight: bold;
+}
+.syntax--markup.syntax--changed {
+  color: #a626a4;
+}
+.syntax--markup.syntax--deleted {
+  color: #e45649;
+}
+.syntax--markup.syntax--italic {
+  color: #a626a4;
+  font-style: italic;
+}
+.syntax--markup.syntax--heading {
+  color: #e45649;
+}
+.syntax--markup.syntax--heading .syntax--punctuation.syntax--definition.syntax--heading {
+  color: #4078f2;
+}
+.syntax--markup.syntax--link {
+  color: #0184bc;
+}
+.syntax--markup.syntax--inserted {
+  color: #50a14f;
+}
+.syntax--markup.syntax--quote {
+  color: #986801;
+}
+.syntax--markup.syntax--raw {
+  color: #50a14f;
+}
+.syntax--source.syntax--c .syntax--keyword.syntax--operator {
+  color: #a626a4;
+}
+.syntax--source.syntax--cpp .syntax--keyword.syntax--operator {
+  color: #a626a4;
+}
+.syntax--source.syntax--cs .syntax--keyword.syntax--operator {
+  color: #a626a4;
+}
+.syntax--source.syntax--css .syntax--property-name,
+.syntax--source.syntax--css .syntax--property-value {
+  color: #696c77;
+}
+.syntax--source.syntax--css .syntax--property-name.syntax--support,
+.syntax--source.syntax--css .syntax--property-value.syntax--support {
+  color: #383a42;
+}
+.syntax--source.syntax--elixir .syntax--source.syntax--embedded.syntax--source {
+  color: #383a42;
+}
+.syntax--source.syntax--elixir .syntax--constant.syntax--language,
+.syntax--source.syntax--elixir .syntax--constant.syntax--numeric,
+.syntax--source.syntax--elixir .syntax--constant.syntax--definition {
+  color: #4078f2;
+}
+.syntax--source.syntax--elixir .syntax--variable.syntax--definition,
+.syntax--source.syntax--elixir .syntax--variable.syntax--anonymous {
+  color: #a626a4;
+}
+.syntax--source.syntax--elixir .syntax--parameter.syntax--variable.syntax--function {
+  color: #986801;
+  font-style: italic;
+}
+.syntax--source.syntax--elixir .syntax--quoted {
+  color: #50a14f;
+}
+.syntax--source.syntax--elixir .syntax--keyword.syntax--special-method,
+.syntax--source.syntax--elixir .syntax--embedded.syntax--section,
+.syntax--source.syntax--elixir .syntax--embedded.syntax--source.syntax--empty {
+  color: #e45649;
+}
+.syntax--source.syntax--elixir .syntax--readwrite.syntax--module .syntax--punctuation {
+  color: #e45649;
+}
+.syntax--source.syntax--elixir .syntax--regexp.syntax--section,
+.syntax--source.syntax--elixir .syntax--regexp.syntax--string {
+  color: #ca1243;
+}
+.syntax--source.syntax--elixir .syntax--separator,
+.syntax--source.syntax--elixir .syntax--keyword.syntax--operator {
+  color: #986801;
+}
+.syntax--source.syntax--elixir .syntax--variable.syntax--constant {
+  color: #c18401;
+}
+.syntax--source.syntax--elixir .syntax--array,
+.syntax--source.syntax--elixir .syntax--scope,
+.syntax--source.syntax--elixir .syntax--section {
+  color: #696c77;
+}
+.syntax--source.syntax--gfm .syntax--markup {
+  -webkit-font-smoothing: auto;
+}
+.syntax--source.syntax--gfm .syntax--link .syntax--entity {
+  color: #4078f2;
+}
+.syntax--source.syntax--go .syntax--storage.syntax--type.syntax--string {
+  color: #a626a4;
+}
+.syntax--source.syntax--ini .syntax--keyword.syntax--other.syntax--definition.syntax--ini {
+  color: #e45649;
+}
+.syntax--source.syntax--java .syntax--storage.syntax--modifier.syntax--import {
+  color: #c18401;
+}
+.syntax--source.syntax--java .syntax--storage.syntax--type {
+  color: #c18401;
+}
+.syntax--source.syntax--java .syntax--keyword.syntax--operator.syntax--instanceof {
+  color: #a626a4;
+}
+.syntax--source.syntax--java-properties .syntax--meta.syntax--key-pair {
+  color: #e45649;
+}
+.syntax--source.syntax--java-properties .syntax--meta.syntax--key-pair > .syntax--punctuation {
+  color: #383a42;
+}
+.syntax--source.syntax--js .syntax--keyword.syntax--operator {
+  color: #0184bc;
+}
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--delete,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--in,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--of,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--instanceof,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--new,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--typeof,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--void {
+  color: #a626a4;
+}
+.syntax--source.syntax--ts .syntax--keyword.syntax--operator {
+  color: #0184bc;
+}
+.syntax--source.syntax--flow .syntax--keyword.syntax--operator {
+  color: #0184bc;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--string.syntax--quoted.syntax--json {
+  color: #e45649;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation.syntax--string {
+  color: #e45649;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation {
+  color: #50a14f;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--constant.syntax--language.syntax--json,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--constant.syntax--language.syntax--json {
+  color: #0184bc;
+}
+.syntax--ng.syntax--interpolation {
+  color: #e45649;
+}
+.syntax--ng.syntax--interpolation.syntax--begin,
+.syntax--ng.syntax--interpolation.syntax--end {
+  color: #4078f2;
+}
+.syntax--ng.syntax--interpolation .syntax--function {
+  color: #e45649;
+}
+.syntax--ng.syntax--interpolation .syntax--function.syntax--begin,
+.syntax--ng.syntax--interpolation .syntax--function.syntax--end {
+  color: #4078f2;
+}
+.syntax--ng.syntax--interpolation .syntax--bool {
+  color: #986801;
+}
+.syntax--ng.syntax--interpolation .syntax--bracket {
+  color: #383a42;
+}
+.syntax--ng.syntax--pipe,
+.syntax--ng.syntax--operator {
+  color: #383a42;
+}
+.syntax--ng.syntax--tag {
+  color: #0184bc;
+}
+.syntax--ng.syntax--attribute-with-value .syntax--attribute-name {
+  color: #c18401;
+}
+.syntax--ng.syntax--attribute-with-value .syntax--string {
+  color: #a626a4;
+}
+.syntax--ng.syntax--attribute-with-value .syntax--string.syntax--begin,
+.syntax--ng.syntax--attribute-with-value .syntax--string.syntax--end {
+  color: #383a42;
+}
+.syntax--source.syntax--ruby .syntax--constant.syntax--other.syntax--symbol > .syntax--punctuation {
+  color: inherit;
+}
+.syntax--source.syntax--php .syntax--class.syntax--bracket {
+  color: #383a42;
+}
+.syntax--source.syntax--python .syntax--keyword.syntax--operator.syntax--logical.syntax--python {
+  color: #a626a4;
+}
+.syntax--source.syntax--python .syntax--variable.syntax--parameter {
+  color: #986801;
+}
+</style>
+
+  </head>
+  <body>
+    <p><img src="../icons/cv.png" width="50"><a href="https://ilailabs.github.io/profile-elankovanmg/">0. Home Page</a> |
+<img src="../icons/aboutme.png" width="50"><a href="#myself">1. About Me</a> |
+<img src="../icons/res.png" width="50"><a href="#research">2. Research</a> |
+<img src="../icons/work.png" width="50"> <a href="#work">3. Work Experience</a> |
+<img src="../icons/acad.png" width="50"><a href="#acad">4. Academics</a>|
+<img src="../icons/moocs.png" width="50">   <a href="#moocs">5. Online Courses</a> |
+<img src="../icons/cert1.png" width="50">   <a href="#training">6. Training &amp; Certification</a>
+<img src="../icons/comp.png" width="50"><a href="#computer">7. Computer Proficiency &amp; Skills</a> |
+<img src="../icons/hobbies.png" width="50"> <a href="#hobbies">8. Leisure Activities</a> |
+<img src="../icons/jobexp.png" width="50">  <a href="#faqs">9. Interview FAQs</a> |
+<img src="../icons/gallery.png" width="50"><a href="#gallery">10. Photo gallery</a></p>
+<iframe src="F4.pdf#page=1&amp;zoom=200" width="100%" height="540px"></iframe>
+<p><br><a href="F4.pdf" title="Download as PDF">File link</a></p>
+<p><a name="myself"></a></p>
+<h2>1. About Me</h2>
+<p>I joined Computational Materials Modelling(CMM) Group in 2017 lead by <a href="https://home.iitm.ac.in/n.swaminathan/">Prof. Narasimhan Swaminathan</a> as an interdisciplinary research scholar in the <strong>Department of Mechanical Engineering(Design)</strong> and in the <strong>Department of Physics</strong> under the research supervision of <a href="http://iitm.irins.org/profile/61936">Prof. C. V. Krishnamurthy.</a>
+My Inclination towards Science and Mathematics and the love that I had for my family was my motivation to join IITM to pursue research education.
+My first real encounter with science was during my middle school days when I successfully electroplated a stainless-steel coin into a copper coated one with a mobile phone charger and unused copper wires (stole some copper sulphate salt from my chemistry lab)
+I also couldn’t believe in a few interesting things my physics teacher taught me, until I convinced myself doing small science experiments.
+I was very curious and had too much fun experimenting with some science stuff and enjoyed playing with diodes, DC motors and LEDs with my cousin.
+In Fact I think spending too much time with myself in my early childhood days has reflected in my introverted(mostly) personality when I grew up.
+Those days were the happiest days of my life and I had aspirations of becoming a world class engineer someday since then.
+I always had fascination over technology and the way they empower  humankind.
+The Internet and flying machines were my favourite among them.</p>
+<p>Philosophy and Psychology is something that I appreciate and understand apart from my discipline.
+I was most influenced by the teachings of Dr. Jordan Peterson and his views on life and also inspired by the writings of american philosopher Dr. Wyane Dyer.
+I recently developed some interest in Entrepreneurship and Behavioural science, influenced by the talks of <a href="https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?utm_campaign=tedspread&amp;utm_medium=referral&amp;utm_source=tedcomshare">Simon Sinek</a> &amp; some of the professors I met in the past few years, <a href="https://doms.iitm.ac.in/index.php/ganesh-l-s">Prof LSG</a> (DoMs-IITM) and <a href="https://www.ubc.ca/about/one-on-one/leadership/murali-chandrashekaran.html">Prof Murali</a> from UBC who mentored me for a <a href="https://drive.google.com/file/d/1JGrOQwY2iX0jIlT7IARku8VyugIvNgbP/view?usp=sharing">social project</a>.</p>
+<p><a name="research"></a></p>
+<h2>2. Research at IITM</h2>
+<h3><u>Kapitza Resistance And Elastic Phonon ScatteringProperties of Grain Boundaries in Diamond-Silicon</u></h3>
+<p align="center"><img src="images/19-c.png"></p>
+I studied the thermal heat transport characteristics of various Grain Boundary(GB) interfaces in silicon bicrystal models using computer simulations.
+GBs are very thin amorphous layers between two crystals with relative misorientation to each other as shown above.
+When the thermal energy(heat) flows from crystal A(on the left) to crystal B(on the right) there is some energy loss due to thermal energy carrier scattering at the interface.
+This results in a temperature drop or discontinuity to the flow of thermal heat current.
+Different interfaces show different temperature drops to the same magnitude of thermal heat current, and therefore thermal boundary resistance is an intrinsic property of the interface.
+I studied various symmetric tilt grain boundaries in Silicon trying to figure out on what factors these thermal boundary resistance depends.
+<p><br><br>
+To get deeper insights into the thermal boundary resistance, the later part of the research focuses on phonon-wave-packet(could be considered as a particle of heat) scattering at the interface.
+Since the mechanism of Sound and Heat propagation in a crystalline solid is similar, we investigated the wave-packet that propagates across the interface. The animation below shows a wave-packet passing through an one-dimensional model of an interface where some part of a wave is reflected and most of them are transmitted at the interface.</p>
+<p align="center"><img src="images/wave_0.2a.gif"></p>
+<p><strong>Potential Applications</strong>:</p>
+<ul>
+<li>In the design of functional materials like microelectronic semiconductor devices</li>
+<li>Design of new structural materials for high thermal applications such as jet engine isolations, etc.</li>
+</ul>
+<p><strong>Simulations Techniques</strong>:</p>
+<ul>
+<li>Python and Matlab for modeling the GB-bicrystal samples.</li>
+<li>Molecular Dynamics(MD) techniques to perform heat flow simulations using <a href="https://lammps.sandia.gov/doc/Intro_overview.html">LAMMPS</a> software package</li>
+<li><a href="https://www.ovito.org/">OVITO</a> software package to visualise the GB models</li>
+<li>OVITO-python interpreter, and python for post-processing the simulations results</li>
+</ul>
+<p><u>NOTE:</u> To read more visit my <em>Research Profile:</em> <a href="https://ilailabs.github.io/research-elankovanmg/">ilailabs.github.io/research-elankovanmg</a></p>
+<p><a name="work"></a></p>
+<h2>3. Work Experiences</h2>
+<p><strong>Educator(Engineering Mathematics)</strong></p>
+<p><em>Type: Freelance</em>(Week-ends)</p>
+<p>I have classroom teaching experience and online(via zoom) teaching experience in the following topics. My interest in maths and opportunity to develop my soft skill has motivated me to be a freelance educator.</p>
+<ul>
+<li>Determinants &amp; Matrices</li>
+<li>Calculus &amp; Differential Equations</li>
+<li>Vector Calculus</li>
+<li>Functions of Complex Variables</li>
+<li>Transforms</li>
+<li>Numerical Methods</li>
+<li>Applied Probability;</li>
+<li>Material Science</li>
+</ul>
+<p><strong>Project Lead, (PrepLeaf Preparations Pvt. Ltd)</strong></p>
+<p><em>Type: Contract</em></p>
+<p>Earlier I started publishing the questions for my students to practise for their exams, later due to huge demand and market size([1,00,000+ users) I took this project seriously and collaborated the exam preparations company <strong>PrepLeaf</strong>
+Myself and my friend has started building a faculty team who can develop good quality educational resources for the aspirants of TNEB-AE; With prepleaf as our technology partner I am leading the team of project onlinetangedco</p>
+<p>Vist this <a href="https://onlinetangedco.prepleaf.com/">page</a> if you are more interested to know about this project</p>
+<ul>
+<li>Roles Responsibilities: Planning the project; Assigning the tasks to teammates; Monitoring the progress.</li>
+<li>Also responsible for strategic marketing and sales of the product</li>
+<li>Scheduling of online mock exams, organizing and assigning the works to faculties to prepare study materials</li>
+<li>Team size: 3-core + 2-freelancers</li>
+</ul>
+<p><strong>Project Associate, (Chennai Urban Resilience Program)</strong></p>
+<p><em>Type: summer intern (May 2019)</em></p>
+<p>This project is one of the best experiences I had in my IITM college life. The project is so exciting just because we were working on the real grounds interviewing people and collaborating with <em>chennai’s resilience team</em> closely to give some practical solutions to Chennai’s solid waste management.</p>
+<ul>
+<li>There were six teams from international universities(University of Cambridge, IIT Madras, Yale NUS College, University of British Columbia) and we worked on the project <em>Urban Horticulture</em></li>
+</ul>
+<p><a href="https://drive.google.com/file/d/1JGrOQwY2iX0jIlT7IARku8VyugIvNgbP/view?usp=sharing">Project report</a></p>
+<p><strong>PROJECTS</strong></p>
+<p><a href="https://drive.google.com/file/d/1qnyJI7elBbaWzXqo5jAcWL0ETHLJdSd_/view?usp=sharing"><strong>UG Project: Investigation and Design of customized Airfoil for Low-Speed Vertical Axis Wind Turbine</strong></a></p>
+<ul>
+<li>We explored the possibility of a new design in the airfoil cross-section of VAWT. The new design is proposed based on
+the lift to drag coefficient and the model is designed in CATIA V5 Sketcher</li>
+</ul>
+<p><a href="https://drive.google.com/file/d/1wX4jdMVWnylWz3MDtxqlHQnJEPqL1U0i/view?usp=sharing"><strong>UG Mini Project: Kinetic Energy Recovery System Adopted Bicycles</strong></a></p>
+<ul>
+<li>A new brake mechanism that can store the kinetic energy of bicycles during the application of sudden breaks and a
+a recovery system to release the stored energy is designed using an open coil spring and actuator. We tried to fabricate the
+working prototype of this model.</li>
+</ul>
+<p><a href="https://www.ijert.org/research/conceptual-design-of-electromagnetic-damper-for-motorcycle-suspension-system-IJERTV4IS080580.pdf"><strong>Conceptual Design of Electromagnetic Damper for Motorcycle Suspension</strong></a></p>
+<ul>
+<li>The new idea of using the multiple solenoidal-magnetic coils for the rear suspension of motorcycles is proposed. This
+model uses an active feedback loop to control the damping forces through Electronic Control Unit making the suspension
+active.</li>
+</ul>
+<p><a href="https://github.com/ilailabs/quizz_app"><strong>Flutter Application: Android and iOS Mobile Application</strong></a></p>
+<ul>
+<li>My Quiz application helps the aspirants preparing for competitive exam by attempting quizzes</li>
+<li>Functionalities Implemented: (1)User Login &amp; New user registration; (2) Display the contents of Notes &amp; Quizzes
+from google firestore; (3) Evaluates the quiz score with the marking schemes; (4) Makes the solution available for user
+attempted the test; (5) User profile details</li>
+<li>Type: Hobby Project; Duration: 3 Weeks; Built Using: Android Studio with Dart Programming language;</li>
+</ul>
+<p><strong>Numerical solution for plane problems using Finite Element approach [ME6800]</strong> <a href="https://drive.google.com/file/d/1qlO6gikFvM8olIuZs1krBnOrpLRwNnlU/view?usp=sharing">report</a></p>
+<ul>
+<li>Simple truss and beam problems have been solved using Matlab;</li>
+</ul>
+<p><strong>Uniaxial Tensile Test of Single Walled Carbon Nanotube: A MD approach[AM6512]</strong> <a href="https://drive.google.com/file/d/1HBfK0Vw_eVYvM5hteecS76lf7O8pvUOq/view?usp=sharing">report</a></p>
+<ul>
+<li>Single walled carbon nanotube structure has been generated and uniaxial tensile testing has been performed using</li>
+</ul>
+<p><strong>LAMMPS MD Simulation of Dislocation Dipole[ME7244]</strong> <a href="https://drive.google.com/file/d/16dBDbsLnraYNCkEd-oupO8mx89vTZTaV/view?usp=sharing">report</a></p>
+<ul>
+<li>The dislocation dipole structure has been modeled using Matlab and the stable dislocation dipole structure and energy
+has been calculated using LAMMPS</li>
+</ul>
+<p><strong>Urban Horticulture Project [ID5120]</strong> <a href="https://drive.google.com/file/d/1JGrOQwY2iX0jIlT7IARku8VyugIvNgbP/view?usp=sharing">report</a></p>
+<ul>
+<li>Household vegetable gardening is proposed to be the best solution to deal with degradable solid waste management</li>
+</ul>
+<p><a name="acad"></a></p>
+<h2>4. Academics</h2>
+<p><strong>EDUCATION</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Institute</th>
+<th style="text-align:left">Programme</th>
+<th style="text-align:center">Year</th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Indian Institue of Technology Madras, Chennai</td>
+<td style="text-align:left">MS by Research</td>
+<td style="text-align:center">2020</td>
+<td style="text-align:center">7.8</td>
+</tr>
+<tr>
+<td style="text-align:left">Thanthai Periyar Govt. Institute of Technology, Vellore</td>
+<td style="text-align:left">B.E in Mechanical</td>
+<td style="text-align:center">2016</td>
+<td style="text-align:center">7.3</td>
+</tr>
+<tr>
+<td style="text-align:left">Velammal Mat. Hr. Sec. School, Chennai</td>
+<td style="text-align:left">TN-Higher Secondary</td>
+<td style="text-align:center">2012</td>
+<td style="text-align:center">92.9</td>
+</tr>
+<tr>
+<td style="text-align:left">Velammal Mat. Hr. Sec. School, Chennai</td>
+<td style="text-align:left">TN-Matriculation</td>
+<td style="text-align:center">2010</td>
+<td style="text-align:center">91.8</td>
+</tr>
+</tbody>
+</table>
+<p><strong>ACCOMPLISHMENTS</strong></p>
+<ul>
+<li>Selected in International Winter School on Social Entrepreneurship organized by the Center for Social Innovation &amp; Entrepreneurship at IIT Madras</li>
+<li>Winner: Paper presentation in National Technical Symposium-2014, CIPET, Chennai</li>
+<li>Best Paper presentation award CRANIKZ Symposium 2015, TPGIT, Vellore</li>
+<li>Winner: CAD Modelling in National Technical Symposium-2014, CIPET, Chennai</li>
+<li>Winner: CAD Modelling in National Technical Symposium-2015, Velammal Engg. College</li>
+<li>Winner: CAD Modelling in National Technical Symposium-2015, Adhiparasakthi College of Engg.</li>
+<li>Secured 93.4 percentile in GATE 2017 with score 522</li>
+</ul>
+<p><strong>PUBLICATIONS</strong></p>
+<!-- | Year | Journal | Title |
+|:---:|:---:|:---:|
+| 2014 | Journal of Physics | Conceptual Design of ... |
+| 2020  | Journal of ...  |  ... | -->
+<ul>
+<li>Published a paper titled “Conceptual design of Electromagnetic Damper for motorcycle suspension” IJERT, Vol.4, Issue
+08</li>
+<li>Working on a paper titled “Thermal Resistance and Energies of &lt;100&gt; Symmetric Tilt Grain Boundaries in Silicon”</li>
+<li>Expected to publish a paper titled “Thermal Resistance and Energies of &lt;100&gt; and &lt;110&gt; Symmetric Tilt Grain Boundaries in Silicon”</li>
+</ul>
+<p><a name="moocs"></a></p>
+<h2>5. Online Courses</h2>
+<!-- **Coursera**
+* Int to matlab with fp
+* 10 things
+* Krish na garkipathy
+
+**Nano-Hub**
+* atoms-to-materials
+* ht-at-nanoscales
+
+**matlab academy**
+* ML
+* DL
+* SM
+* LA
+
+**others** -->
+<ul>
+<li>Apr 2020 - <a href="https://www.appbrewery.co/p/intro-to-flutter">Introduction to Flutter Development using Dart</a> | AppBrewery <a href="https://github.com/ilailabs/quizz_app.git">View project</a></li>
+<li>Apr 2020 - <a href="https://drive.google.com/file/d/1tKv_DNOkCht43wJxD3zWGPMOf5qxZuh5/view?usp=sharing">AWS Cloud Practitioner Essentials</a> | AWS training</li>
+<li>Dec 2019 - <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=0a971607-752c-4a8d-9fe7-92bb788f03d6">Introduction to Statistics With Matlab</a> | Matlab Academy</li>
+<li>Nov 2019 - <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=534e9419-8eb6-49f5-840e-a7f0dbcf25ee">Introduction to Linear Algebra With Matlab</a> | Matlab Academy</li>
+<li>Sep 2019 - <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1674b012-f16d-4352-ad96-1d9c2bd8be09">Machine Learning With Matlab</a> | Matlab Academy</li>
+<li>Jun 2019 - <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2e4dc323-6a87-4bdc-8736-56b2811f875b">Deep Learning With Matlab</a> | Matlab Academy</li>
+<li>Apr 2019 - <a href="https://nptel.ac.in/noc/Ecertificate/?q=noc19-cs09/NPTEL19CS09S61221598191073298.jpg">Joy of Computing Using Python</a> | NPTEL-IIT Ropar</li>
+</ul>
+<p>To know the list of all courses check this <a href="docs/MY_COURSES/allcourses.html">page</a></p>
+<p><a name="training"></a></p>
+<h2>6. Training &amp; Certification</h2>
+<p><a href="https://drive.google.com/file/d/1kspvXkDuXKa-Qrk0t3N7LrebC_PwDFDq/view?usp=sharing"><strong>Master Diploma In Automotive Design</strong></a></p>
+<p>I completed this 300+ Hours course over a period of 2 years during my undergraduates; I spend my weekends learning and practising CAD modelling those days.</p>
+<ul>
+<li>CATIA V5(complete software package)</li>
+<li>Creo 2.0</li>
+<li>Nx-CAD</li>
+<li>Nx-CAM</li>
+<li>Nx-Nastran</li>
+<li>Ansys</li>
+<li>Basics of GD&amp;T</li>
+<li>Autocad 2D</li>
+</ul>
+<p><a name="computer"></a></p>
+<h2>7. Computer Proficiency &amp; Skills</h2>
+<ul>
+<li>Programming Languages: <a href="https://ilailabs.github.io/python/">Python(intermediate)</a>, Dart</li>
+<li>Scientific Computing: <a href="https://ilailabs.github.io/python/matlab/index.md.html">MATLAB(proficient)</a>, SageMath, Mathematica</li>
+<li>CAD Modelling: CATIA V5(proficient), SolidWorks, NX-CAD</li>
+<li>Simulation Tools: LAMMPS, NX-Nastran, Ansys</li>
+<li>Documentation:: Markdown(proficient), LaTex(intermediate)</li>
+<li>Linux OS: <a href="https://ilailabs.github.io/python/bash/index.md.html">Shell scripting in linux</a></li>
+</ul>
+<p><strong>Others</strong></p>
+<ul>
+<li>I have been using linux for more than 3+ years(much comfortable with ubuntu)</li>
+<li>Good at writing scripts in matlab. I mostly use matlab for my academic research.</li>
+<li>Intermediate skills in python. I can write my own python scripts to accomplish any given task with other references.</li>
+<li>I use markdown to document all academic and personal stuff.</li>
+<li>I am familiar with cloning a project from github and developing on it. I am exposed to repos, pull and push request from local machine</li>
+</ul>
+<p>Please check out the above links if you are interested to know about my style of writing scripts. I started using <em>Leetcode</em> and <em>project euler</em> to practise problems during my leisure hours for placements.</p>
+<p><a href="https://leetcode.com/elankovanmg/">My Leetcode profile</a></p>
+<p><a href="/home/elankovan/Dropbox/python/leet/INDEX.md.html">My LeetCode documentation</a></p>
+<p><a name="hobbies"></a></p>
+<h2>8. Leisure Activities &amp; Hobbies</h2>
+<ul>
+<li>Playing guitar</li>
+<li>Indian classical music</li>
+</ul>
+<p><strong>Hobbies for fitness</strong></p>
+<ul>
+<li>squash</li>
+<li>swimming</li>
+<li>cycling</li>
+</ul>
+<p><a name="faqs"></a></p>
+<h2>9. Interview FAQs &amp; Job Expectations</h2>
+<ul>
+<li>Tell us about yourself?</li>
+<li>Why do you think you’re the best fit to our organisation?</li>
+<li>Are you interested in job roles relevant to data science/analytics/ML being a mechanical engineer?</li>
+<li>What’s your motivation to learn programming?</li>
+<li>Tell us about your research experience at IIT Madras?</li>
+<li>What would be your criteria to choose a job-offer in case you get multiple offers?</li>
+<li>Are you willing to relocate?</li>
+<li>What’s your primary job expectations?</li>
+<li>How do you see yourself in the next five years?</li>
+<li>How good are you working with teams?</li>
+<li>What is that one thing that drastically improved your productivity recently?</li>
+<li>How do you deal with distraction at work/productive hours?</li>
+<li>What helps you stay motivated when you face challenges or when things didn’t work?</li>
+<li>Tell us about your first job interview experiences?</li>
+<li>What’s your opinion about entrepreneurship?</li>
+<li>Why do you think leadership skills are extremely important?</li>
+<li>What are your strengths? What are the things that you’re proud of yourself?</li>
+<li>What are your weaknesses? Have you taken any steps to improve them?</li>
+<li>What are the few qualities that you admire in yourself?</li>
+<li>What qualities do you admire in a leader?</li>
+<li>What’s your motivation to teach Engineering Mathematics?</li>
+<li>I have something else to ask you?</li>
+</ul>
+<p><a name="gallery"></a></p>
+<h2>10. Photo Gallery</h2>
+<p><strong>Motivation talk to freshmen</strong>
+<img src="images/4_mytalk_16s.gif" alt=""></p>
+<p><strong>Selected in Urban resilience international workshop</strong>
+<img src="images/5_ubc_16s.gif" alt=""></p>
+<p><strong>Selected in winter school on social entrepreneurship by CSIE, IITM</strong>
+<img src="images/2_csie_workshop_16.gif" alt=""></p>
+<p><a href="images/gallery.md.html">View all</a></p>
+<h2>Personal Details</h2>
+<ul>
+<li>Date Of Birth: 05/11/1994</li>
+<li>Age: 25 y.o, Male</li>
+<li>Permanent Residence: Chennai, Tamil Nadu</li>
+<li>Father Occupation: Merchant and self-employed</li>
+<li>Mother: Homemaker and Tailor</li>
+<li>Siblings: One elder Sister(married) and works in IT</li>
+</ul>
+<hr>
+<p><strong>Disclaimer</strong>:
+Contents in this page are genuine and accurate to the best of my knowledge. And intended only for recruitment purposes. Please do not disclose or share any personal information without my consent.</p>
+<p><br>Written by: Elankovan M. G.(candidate) in <a href="https://github.com/ilailabs/profile-elankovanmg/blob/master/index.md">markdown</a> with atom text editor
+<br>Last Updated: 10-October-2020</p>
+<p><a name="email"></a></p>
+<p><br><img src="../icons/gmail.png" width="20"> <strong><a href="mailto:elankovanmg@gmail.com">elankovanmg@gmail.com</a></strong>
+<br><img src="../icons/whatsapp.png" width="20"> +91 99402 75***
+<br><img src="../icons/twitter.png" width="20"><a href="https://twitter.com/elangovan_ilai">#elangovan_ilai</a>
+<br><img src="../icons/linkedin.png" width="20"><a href="https://www.linkedin.com/in/elankovanmg/">linkedin.com/in/elankovanmg</a>
+<br><img src="../icons/iitm.png" width="20"><a href="https://scholars.iitm.ac.in/profile/ME17S300">scholars.iitm.ac.in/profile/ME17S300</a></p>
+<p>Page Views: <img src="https://hitwebcounter.com/counter/counter.php?page=7441543&amp;style=0007&amp;nbdigits=4&amp;type=page&amp;initCount=0" height="15">
+Unique Viewers: <img src="https://hitwebcounter.com/counter/counter.php?page=7441544&amp;style=0007&amp;nbdigits=4&amp;type=ip&amp;initCount=0" height="15"> Since June 2020</p>
+
+  </body>
+</html>
