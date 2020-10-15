@@ -12,9 +12,8 @@ Remember to use the `HOME` button and `Ctrl+F` to navigate and search within thi
 
 Say, if my IITM Placement registration number is `55/ME/20/028` please enter `028` as a password. -->
 
-<br>[**I Resume-Engineer -Micron Technologies**](docs/F4.pdf "Download as PDF")
-<br>[**II Resume-Research Engineer Mechanical R&D**](docs/F1.pdf "Download as PDF")
-<br>[**III Resume- Data Sciences and Machine Learning Profile**](docs/F2.pdf "Download as PDF")
+<br>[**I  RESUME - ENGINEER RESEARCH AND DEVELOPMENT**](docs/F5.pdf "Download as PDF")
+<br>[**II RESUME - DATA SCIENCE & MACHINE LEARNING**](docs/F2.pdf "Download as PDF")
 
 <a name="myself"></a>
 ## 1. About Me
